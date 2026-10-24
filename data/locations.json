@@ -1,0 +1,1516 @@
+{
+  "FDA-001": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/103234Orig1s5166StatR.pdf",
+    "document_title": "statistical review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the statistical review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-002": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2011/103234Orig1s5166StatR.pdf",
+    "document_title": "statistical review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the statistical review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-003": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2003/103795-5123_Enbrel_statr.pdf",
+    "document_title": "statistical review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the statistical review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-005": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/103979Orig1s5309.pdf",
+    "document_title": "supplement review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the supplement review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-007": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/125118_S0000_MedR.pdf",
+    "document_title": "clinical review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the clinical review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+  },
+  "FDA-009": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/125164s000_StatR.pdf",
+    "document_title": "statistical review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the statistical review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-011": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/125276Orig1s114OtherR.pdf",
+    "document_title": "other review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the other review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+  },
+  "FDA-012": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2013/125320Orig1s094.pdf",
+    "document_title": "supplement review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the supplement review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-013": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/125476Orig1s000MedR.pdf",
+    "document_title": "clinical review",
+    "page": 6,
+    "section": "Required Pediatric Assessments:",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 6 of the clinical review, under the heading “Required Pediatric Assessments:”.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-014": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/125544Orig1s000MedR.pdf",
+    "document_title": "clinical review",
+    "page": 27,
+    "section": "at baseline. The following efficacy endpoints were assessed:",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 27 of the clinical review, under the heading “at baseline. The following efficacy endpoints were assessed:”."
+  },
+  "FDA-020": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/761104Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": 22,
+    "section": "2 Therapeutic Context",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 22 of the multidisciplinary review, under the heading “2 Therapeutic Context”."
+  },
+  "FDA-021": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761113Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": 149,
+    "section": "The FDA’s Assessment:",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 149 of the multidisciplinary review, under the heading “The FDA’s Assessment:”."
+  },
+  "FDA-022": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/761163Orig1s000RiskR.pdf",
+    "document_title": "risk assessment review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the risk assessment review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-023": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/761359Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the multidisciplinary review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-024": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class."
+  },
+  "FDA-025": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class."
+  },
+  "FDA-026": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted"
+  },
+  "FDA-027": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted"
+  },
+  "FDA-028": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-029": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-030": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-031": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-032": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-033": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-034": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-035": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-036": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-037": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-038": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-039": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/019758Orig1s034.pdf",
+    "document_title": "supplement review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the supplement review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-042": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/021071Orig1s048.pdf",
+    "document_title": "supplement review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the supplement review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-043": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/021225Orig1s033.pdf",
+    "document_title": "supplement review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the supplement review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-044": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2005/021286Orig1s010.pdf",
+    "document_title": "supplement review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the supplement review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-045": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/021395Orig1s029.pdf",
+    "document_title": "supplement review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the supplement review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-049": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/021752Orig1s030MedR.pdf",
+    "document_title": "clinical review",
+    "page": 20,
+    "section": "Study completion: 03/16",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 20 of the clinical review, under the heading “Study completion: 03/16”.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-050": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/021864s000_StatR.pdf",
+    "document_title": "statistical review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the statistical review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-051": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/021951Orig1s000RiskR.pdf",
+    "document_title": "risk assessment review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the risk assessment review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-052": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2006/021995s000_StatR.pdf",
+    "document_title": "statistical review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the statistical review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-053": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2008/022253s000_022254s000_StatR.pdf",
+    "document_title": "statistical review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the statistical review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+  },
+  "FDA-054": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/022272Orig1s027RiskR.pdf",
+    "document_title": "risk assessment review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the risk assessment review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-055": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2010/022512Orig1s000CrossR.pdf",
+    "document_title": "public review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the public review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-056": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2010/022512Orig1s000CrossR.pdf",
+    "document_title": "public review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the public review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-057": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/050708Orig1s027_StatR.pdf",
+    "document_title": "statistical review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the statistical review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+  },
+  "FDA-058": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/203085Orig1s000CrossR.pdf",
+    "document_title": "public review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the public review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-059": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/206910Orig1s000OtherR.pdf",
+    "document_title": "other review",
+    "page": 2,
+    "section": "",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 2 of the other review.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-060": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2015/207103Orig1s000MedR.pdf",
+    "document_title": "clinical review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the clinical review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-061": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/207968Orig1s000SumR.pdf",
+    "document_title": "summary review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the summary review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-062": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2019/212018Orig1s000OtherR.pdf",
+    "document_title": "other review",
+    "page": 14,
+    "section": "4 DISCUSSION",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 14 of the other review, under the heading “4 DISCUSSION”."
+  },
+  "FDA-064": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213400Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the multidisciplinary review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-065": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/213591Orig1s000RiskR.pdf",
+    "document_title": "risk assessment review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the risk assessment review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-066": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214018Orig1s000IntegratedR.pdf",
+    "document_title": "integrated review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the integrated review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+  },
+  "FDA-067": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214622Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the multidisciplinary review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-068": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214665Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the multidisciplinary review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-069": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/214938Orig1s000IntegratedR.pdf",
+    "document_title": "integrated review",
+    "page": 33,
+    "section": "3.2. Approach to the Review",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 33 of the integrated review, under the heading “3.2. Approach to the Review”.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+  },
+  "FDA-070": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/215039Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": 52,
+    "section": "6.2.2.1. General Dosing",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 52 of the multidisciplinary review, under the heading “6.2.2.1. General Dosing”.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+  },
+  "FDA-071": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/215244Orig1s000IntegratedR.pdf",
+    "document_title": "integrated review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the integrated review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-072": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2021/215310Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": 31,
+    "section": "2.2 Analysis of Current Treatment Options",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 31 of the multidisciplinary review, under the heading “2.2 Analysis of Current Treatment Options”."
+  },
+  "FDA-073": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/215500Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": 23,
+    "section": "1.2. Conclusions on the Substantial Evidence of Effectiveness",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 23 of the multidisciplinary review, under the heading “1.2. Conclusions on the Substantial Evidence of Effectiveness”."
+  },
+  "FDA-074": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2023/216718Orig1s000SumR.pdf",
+    "document_title": "summary review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the summary review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-075": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/217865Orig1s000IntegratedR.pdf",
+    "document_title": "integrated review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the integrated review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-076": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/217933Orig1s000MedR.pdf",
+    "document_title": "clinical review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the clinical review posted for this application. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+  },
+  "FDA-077": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2024/218037Orig1s000IntegratedR.pdf",
+    "document_title": "integrated review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the integrated review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "EMA-001": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/finlee-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 68,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 68 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-002": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/agamree-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 38,
+    "section": "completed Study",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 38 of the European public assessment report, under the heading “completed Study”."
+  },
+  "EMA-003": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/rybelsus-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 36,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 36 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-004": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/evrysdi-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 37,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 37 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-005": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/xenpozyme-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 35,
+    "section": "30 mg/kg/dose is considered to be the NOAEL for fe rtility.",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 35 of the European public assessment report, under the heading “30 mg/kg/dose is considered to be the NOAEL for fe rtility.”."
+  },
+  "EMA-006": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/elrexfio-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 82,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 82 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-007": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/winlevi-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 23,
+    "section": "Type of test/study",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 23 of the European public assessment report, under the heading “Type of test/study”."
+  },
+  "EMA-008": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/tremfya-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 30,
+    "section": "Table 12 - Guselkumab ePPND Study: Infant Losses",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 30 of the European public assessment report, under the heading “Table 12 - Guselkumab ePPND Study: Infant Losses”."
+  },
+  "EMA-009": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/lunsumio-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 91,
+    "section": "Radiographic Assessments",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 91 of the European public assessment report, under the heading “Radiographic Assessments”."
+  },
+  "EMA-010": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/itovebi-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 12,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 12 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-011": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/praluent-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 28,
+    "section": "Enhanced PPND study in Cynomolgus monkeys",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 28 of the European public assessment report, under the heading “Enhanced PPND study in Cynomolgus monkeys”."
+  },
+  "EMA-012": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/vabysmo-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 12,
+    "section": "2.1.5. Management",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 12 of the European public assessment report, under the heading “2.1.5. Management”."
+  },
+  "EMA-013": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/zemcelpro-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 100,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 100 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-014": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/attrogy-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 75,
+    "section": "Authors’ conclusions",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 75 of the European public assessment report, under the heading “Authors’ conclusions”."
+  },
+  "EMA-015": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/minjuvi-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 134,
+    "section": "3.1.3. Main clinical studies",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 134 of the European public assessment report, under the heading “3.1.3. Main clinical studies”."
+  },
+  "EMA-016": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/comirnaty-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 50,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 50 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-017": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/fetcroja-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 29,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 29 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-018": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/breyanzi-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 12,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 12 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-019": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/prevymis-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 41,
+    "section": "Special populations",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 41 of the European public assessment report, under the heading “Special populations”."
+  },
+  "EMA-020": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/kimmtrak-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 7,
+    "section": "• IMCgp100-202 Clinical Study Design",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 7 of the European public assessment report, under the heading “• IMCgp100-202 Clinical Study Design”."
+  },
+  "EMA-021": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/brinsupri-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 42,
+    "section": "5.4.4. Carcinogenicity",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 42 of the European public assessment report, under the heading “5.4.4. Carcinogenicity”."
+  },
+  "EMA-022": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/upstaza-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 101,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 101 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-023": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/abecma-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 92,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 92 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-024": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/talvey-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 99,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 99 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-025": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/yescarta-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 83,
+    "section": "Efficacy data and additional analyses",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 83 of the European public assessment report, under the heading “Efficacy data and additional analyses”."
+  },
+  "EMA-026": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/tecentriq-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 104,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 104 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-027": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/voxzogo-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 81,
+    "section": "CHMP assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 81 of the European public assessment report, under the heading “CHMP assessment report”."
+  },
+  "EMA-028": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/kymriah-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 8,
+    "section": "1.1. Submission of the dossier",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 8 of the European public assessment report, under the heading “1.1. Submission of the dossier”."
+  },
+  "EMA-029": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/nuvaxovid-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 5,
+    "section": "DSMB Data safety monitoring board",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 5 of the European public assessment report, under the heading “DSMB Data safety monitoring board”."
+  },
+  "EMA-030": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/tepkinly-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 103,
+    "section": "Real word evidence study",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 103 of the European public assessment report, under the heading “Real word evidence study”."
+  },
+  "EMA-031": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/aucatzyl-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 13,
+    "section": "The approved indication is:",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 13 of the European public assessment report, under the heading “The approved indication is:”."
+  },
+  "EMA-032": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/vyjuvek-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 64,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 64 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-033": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/bylvay-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 52,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 52 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-034": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/filsuvez-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 27,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 27 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-035": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/rozlytrek-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 130,
+    "section": "WO40977 Non-Interventional Study (for the ROS1 NSCLC indication)",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 130 of the European public assessment report, under the heading “WO40977 Non-Interventional Study (for the ROS1 NSCLC indication)”."
+  },
+  "EMA-036": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/wainzua-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 57,
+    "section": "Pharmacokinetic Assessments",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 57 of the European public assessment report, under the heading “Pharmacokinetic Assessments”."
+  },
+  "EMA-037": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/litfulo-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 10,
+    "section": "100 mg QD for chronic dosing.",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 10 of the European public assessment report, under the heading “100 mg QD for chronic dosing.”."
+  },
+  "EMA-038": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/lumykras-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 8,
+    "section": "indication from the CHMP:",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 8 of the European public assessment report, under the heading “indication from the CHMP:”."
+  },
+  "EMA-039": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/qalsody-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 162,
+    "section": "3.2. Favourable effects",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 162 of the European public assessment report, under the heading “3.2. Favourable effects”."
+  },
+  "EMA-040": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/lumoxiti-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 74,
+    "section": "Hypothesis and primary efficacy analysis",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 74 of the European public assessment report, under the heading “Hypothesis and primary efficacy analysis”."
+  },
+  "EMA-041": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/unituxin-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 90,
+    "section": "5 years without",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 90 of the European public assessment report, under the heading “5 years without”."
+  },
+  "EMA-2026-EMEA_H_C_006386": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/cenrifki-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 10,
+    "section": "clinical development programme and registration; drug-drug interaction",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 10 of the European public assessment report, under the heading “clinical development programme and registration; drug-drug interaction”."
+  },
+  "EMA-2026-EMEA_H_C_006482": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/daybu-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 196,
+    "section": "Retrospective study",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 196 of the European public assessment report, under the heading “Retrospective study”."
+  },
+  "EMA-2026-EMEA_H_C_006730": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/icotyde-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 161,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 161 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-2026-EMEA_H_C_006596": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/ilumira-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 63,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 63 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-2026-EMEA_H_C_006184": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/inluriyo-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 75,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 75 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-2026-EMEA_H_C_006498": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/itvisma-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 92,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 92 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-2026-EMEA_H_C_005927": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/joenja-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 124,
+    "section": "1 AE vs 90.0 % in the placebo arm.",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 124 of the European public assessment report, under the heading “1 AE vs 90.0 % in the placebo arm.”."
+  },
+  "EMA-2026-EMEA_H_C_005119": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/kygevvi-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 10,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 10 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-2026-EMEA_H_C_006693": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/nezglyal-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 72,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 72 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-2026-EMEA_H_C_006429": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/onerji-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 177,
+    "section": "6.2.2.1. Routine pharmacovigilance activities",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 177 of the European public assessment report, under the heading “6.2.2.1. Routine pharmacovigilance activities”."
+  },
+  "EMA-2026-EMEA_H_C_006421": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/rezurock-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 15,
+    "section": "Rezurock Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 15 of the European public assessment report, under the heading “Rezurock Assessment report”."
+  },
+  "EMA-2026-EMEA_H_C_006527": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/susvimo-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 201,
+    "section": "9.1.2. Available therapies and unmet medical need",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 201 of the European public assessment report, under the heading “9.1.2. Available therapies and unmet medical need”."
+  },
+  "EMA-2026-EMEA_H_C_005496": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/teizeild-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 151,
+    "section": "Assessment report",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 151 of the European public assessment report, under the heading “Assessment report”."
+  },
+  "EMA-2026-EMEA_H_C_006539": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/vijoice-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 83,
+    "section": "5.3.2.1.1. Study title",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 83 of the European public assessment report, under the heading “5.3.2.1.1. Study title”."
+  },
+  "EMA-2026-EMEA_H_C_006496": {
+    "version": 2,
+    "document_url": "https://www.ema.europa.eu/en/documents/assessment-report/xolremdi-epar-public-assessment-report_en.pdf",
+    "document_title": "European public assessment report",
+    "page": 193,
+    "section": "9.6.3.1.1. Applicant’s request for a Marketing Authorisation under exceptional",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 193 of the European public assessment report, under the heading “9.6.3.1.1. Applicant’s request for a Marketing Authorisation under exceptional”."
+  },
+  "FDA-2026-NDA218592": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/218592Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": 29,
+    "section": "Pooled Safety Set",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 29 of the multidisciplinary review, under the heading “Pooled Safety Set”."
+  },
+  "FDA-2026-NDA220210": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220210Orig1s000IntegratedR.pdf",
+    "document_title": "integrated review",
+    "page": 123,
+    "section": "7.7.4. Increased Intracranial Pressure",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 123 of the integrated review, under the heading “7.7.4. Increased Intracranial Pressure”."
+  },
+  "FDA-2026-NDA220910": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220910Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": 220,
+    "section": "113950. doi: 10.1016/j.ejca.2024.113950",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 220 of the multidisciplinary review, under the heading “113950. doi: 10.1016/j.ejca.2024.113950”."
+  },
+  "FDA-2026-BLA761320": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761320Orig1s000SumR.pdf",
+    "document_title": "summary review",
+    "page": 14,
+    "section": "3. Safety Data update (no new clinal data collected since last BLA submission).",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 14 of the summary review, under the heading “3. Safety Data update (no new clinal data collected since last BLA submission).”."
+  },
+  "FDA-2026-NDA219908": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/219908Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": 146,
+    "section": "8.1.5. Integrated Assessment of Effectiveness",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 146 of the multidisciplinary review, under the heading “8.1.5. Integrated Assessment of Effectiveness”."
+  },
+  "FDA-2026-BLA761468": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761468Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": 13,
+    "section": "1. Executive Summary",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 13 of the multidisciplinary review, under the heading “1. Executive Summary”."
+  },
+  "FDA-2026-NDA220711": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220711Orig1s000MultidisciplineR.pdf",
+    "document_title": "multidisciplinary review",
+    "page": 97,
+    "section": "Disease Assessment",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 97 of the multidisciplinary review, under the heading “Disease Assessment”."
+  },
+  "FDA-2026-BLA761485": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761485Orig1s000IntegratedR.pdf",
+    "document_title": "integrated review",
+    "page": 81,
+    "section": "6.3.4. Substantial Evidence of Effectiveness",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 81 of the integrated review, under the heading “6.3.4. Substantial Evidence of Effectiveness”."
+  },
+  "FDA-2026-NDA219164": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/219164Orig1s000IntegratedR.pdf",
+    "document_title": "integrated review",
+    "page": 19,
+    "section": "1.2. Conclusions on Substantial Evidence of",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 19 of the integrated review, under the heading “1.2. Conclusions on Substantial Evidence of”."
+  },
+  "FDA-2026-BLA761211": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761211Orig1s000IntegratedR.pdf",
+    "document_title": "integrated review",
+    "page": 83,
+    "section": "Determination of Efficacy",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 83 of the integrated review, under the heading “Determination of Efficacy”."
+  },
+  "FDA-2026-NDA211241": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/211241Orig1s000IntegratedR.pdf",
+    "document_title": "integrated review",
+    "page": 23,
+    "section": "1.1. Summary of Regulatory Action",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 23 of the integrated review, under the heading “1.1. Summary of Regulatory Action”."
+  },
+  "FDA-006": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/bla/2007/125084Orig1s103.pdf",
+    "document_title": "supplement review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the supplement review posted for this application. The January curation recorded a summary of the assessment in its own words."
+  },
+  "FDA-040": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2007/020287Orig1s035.pdf",
+    "document_title": "supplement review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the 2007 supplement review posted for this application. The file is too large for this check to read page by page. The January curation recorded a summary of the assessment in its own words.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-EX-cder-approvals-02": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/214056Orig1s000SumR.pdf",
+    "document_title": "summary review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the summary review posted for this application. The wording in this navigator summarises the assessment.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+  },
+  "FDA-EX-cder-approvals-03": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2020/212801Orig1s000SumR.pdf",
+    "document_title": "summary review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the summary review posted for this application. The wording in this navigator summarises the assessment.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+  },
+  "FDA-EX-cder-approvals-04": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2018/761107Orig1s000RiskR.pdf",
+    "document_title": "risk assessment review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the risk assessment review posted for this application. The wording in this navigator summarises the assessment.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+  },
+  "FDA-EX-cder-approvals-05": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2025/219792Orig1s000IntegratedR.pdf",
+    "document_title": "integrated review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the integrated review posted for this application. The wording in this navigator summarises the assessment.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+  },
+  "FDA-EX-cder-postmarketing-01": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2012/022458Orig1s000CrossR.pdf",
+    "document_title": "public review",
+    "page": 45,
+    "section": "Study Completion: 10/2023",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 45 of the public review, under the heading “Study Completion: 10/2023”.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-EX-cder-postmarketing-02": {
+    "version": 2,
+    "document_url": "http://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/125460Orig1s000SumR.pdf",
+    "document_title": "summary review",
+    "page": 13,
+    "section": "1 Evaluate the long-term safety of Vimizim in adult and pediatric patients",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 13 of the summary review, under the heading “1 Evaluate the long-term safety of Vimizim in adult and pediatric patients”.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-EX-cder-postmarketing-03": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2014/205437Orig1s000OtherR.pdf",
+    "document_title": "other review",
+    "page": 33,
+    "section": "Nonclinical study, not safety-related (specify)",
+    "location_kind": "page",
+    "location_note": "The extracted wording is on page 33 of the other review, under the heading “Nonclinical study, not safety-related (specify)”.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-EX-cder-postmarketing-07": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-EX-cder-postmarketing-08": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-EX-cder-postmarketing-09": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "class",
+    "location_note": "This entry covers a class of products. FDA describes the action in its published examples of real-world evidence, and there is no single review PDF for the class.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-EX-cder-postmarketing-10": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2022/021035Orig1s102.pdf",
+    "document_title": "supplement review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the supplement review posted for this application. The wording in this navigator summarises the assessment.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-EX-cder-postmarketing-12": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2016/761044Orig1s000RiskR.pdf",
+    "document_title": "risk assessment review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the risk assessment review posted for this application. The wording in this navigator summarises the assessment.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-EX-cder-postmarketing-14": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2017/209310Orig1s000SumR.pdf",
+    "document_title": "summary review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the summary review posted for this application. The wording in this navigator summarises the assessment.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-004": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted"
+  },
+  "FDA-008": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted"
+  },
+  "FDA-010": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted"
+  },
+  "FDA-015": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted"
+  },
+  "FDA-016": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted"
+  },
+  "FDA-017": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read."
+  },
+  "FDA-018": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read."
+  },
+  "FDA-019": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted"
+  },
+  "FDA-041": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-046": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2002/21-409_Singulair_Statr.pdf",
+    "document_title": "statistical review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the statistical review posted for this application. The wording in this navigator summarises the assessment.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-047": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-048": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+  },
+  "FDA-063": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read."
+  },
+  "FDA-078": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read."
+  },
+  "FDA-079": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read."
+  },
+  "FDA-EX-cder-approvals-01": {
+    "version": 2,
+    "document_url": "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2004/21-539_Acetadote_Statr.pdf",
+    "document_title": "statistical review",
+    "page": null,
+    "section": "",
+    "location_kind": "summary",
+    "location_note": "The linked file is the statistical review posted for this application. The wording in this navigator summarises the assessment.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+  },
+  "FDA-EX-cber-safety-01": {
+    "version": 2,
+    "document_url": "",
+    "document_title": "",
+    "page": null,
+    "section": "",
+    "location_kind": "unresolved",
+    "location_note": "A public review file was not posted for this application on the product page that was read.",
+    "fda_example_url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted"
+  }
+}

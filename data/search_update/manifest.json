@@ -1,0 +1,1131 @@
+{
+  "searched_on": "2026-10-24",
+  "previous_search": "2026-01-19",
+  "gate": "A document is kept when an RWE term sits in a passage about a study or a judgement. Checkbox text, nonclinical historical controls, contents pages, and bibliography lines are not kept.",
+  "ema": {
+    "method": "Human medicines with a marketing authorisation from 1 January 2026 through 24 October 2026. Latest matched assessment report.",
+    "medicines": 66,
+    "hits": 15,
+    "no_passage": 50,
+    "failed": 1,
+    "results": [
+      {
+        "drug": "Ablymico",
+        "application": "EMEA/H/C/006620",
+        "authorised": "15/07/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/ablymico-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Adstiladrin",
+        "application": "EMEA/H/C/005856",
+        "authorised": "28/05/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/adstiladrin-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Anktiva",
+        "application": "EMEA/H/C/006622",
+        "authorised": "16/02/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/anktiva-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Aqneursa",
+        "application": "EMEA/H/C/006327",
+        "authorised": "19/01/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/aqneursa-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Aujemflu",
+        "application": "EMEA/H/C/006692",
+        "authorised": "20/08/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/aujemflu-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Aumseqa",
+        "application": "EMEA/H/C/006069",
+        "authorised": "12/02/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/aumseqa-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Austedo",
+        "application": "EMEA/H/C/006371",
+        "authorised": "08/01/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/austedo-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Boey",
+        "application": "EMEA/H/C/006420",
+        "authorised": "15/07/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/boey-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Bopediat",
+        "application": "EMEA/H/C/006617",
+        "authorised": "29/05/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/bopediat-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Bysumlog",
+        "application": "EMEA/H/C/006158",
+        "authorised": "06/05/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/bysumlog-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Cavoley",
+        "application": "EMEA/H/C/006937",
+        "authorised": "25/09/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/cavoley-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Cenrifki",
+        "application": "EMEA/H/C/006386",
+        "authorised": "19/06/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/cenrifki-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Colchicine Agepha Pharma",
+        "application": "EMEA/H/C/006653",
+        "authorised": "24/07/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/colchicine-agepha-pharma-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Dawnzera",
+        "application": "EMEA/H/C/006554",
+        "authorised": "19/01/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/dawnzera-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Daybu",
+        "application": "EMEA/H/C/006482",
+        "authorised": "20/08/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/daybu-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Dazparda",
+        "application": "EMEA/H/C/006187",
+        "authorised": "27/04/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/dazparda-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Denosumab Ascend",
+        "application": "EMEA/H/C/006626",
+        "authorised": "28/08/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/denosumab-ascend-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Enflonsia",
+        "application": "EMEA/H/C/006497",
+        "authorised": "15/04/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/enflonsia-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Etcamah",
+        "application": "EMEA/H/C/006494",
+        "authorised": "20/07/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/etcamah-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Exdensur",
+        "application": "EMEA/H/C/006446",
+        "authorised": "12/02/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/exdensur-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Fubelv",
+        "application": "EMEA/H/C/006738",
+        "authorised": "23/04/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/fubelv-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Fylrevy",
+        "application": "EMEA/H/C/006213",
+        "authorised": "26/03/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/fylrevy-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "GalenVita",
+        "application": "EMEA/H/C/006639",
+        "authorised": "08/01/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/galenvita-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Gotenfia",
+        "application": "EMEA/H/C/006621",
+        "authorised": "10/02/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/gotenfia-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Hopledo",
+        "application": "EMEA/H/C/006629",
+        "authorised": "20/08/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/hopledo-epar-public-assessment-report_en.pdf",
+        "status": "failed: IncompleteRead"
+      },
+      {
+        "drug": "Icotyde",
+        "application": "EMEA/H/C/006730",
+        "authorised": "18/09/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/icotyde-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Ilumira",
+        "application": "EMEA/H/C/006596",
+        "authorised": "26/03/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/ilumira-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Imdylltra",
+        "application": "EMEA/H/C/006451",
+        "authorised": "29/05/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/imdylltra-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Inluriyo",
+        "application": "EMEA/H/C/006184",
+        "authorised": "09/01/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/inluriyo-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Itvisma",
+        "application": "EMEA/H/C/006498",
+        "authorised": "30/06/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/itvisma-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Jascayd",
+        "application": "EMEA/H/C/006405",
+        "authorised": "15/07/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/jascayd-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Joenja",
+        "application": "EMEA/H/C/005927",
+        "authorised": "21/05/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/joenja-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Kayshild",
+        "application": "EMEA/H/C/006426",
+        "authorised": "26/03/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/kayshild-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Kygevvi",
+        "application": "EMEA/H/C/005119",
+        "authorised": "26/03/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/kygevvi-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Liraglutide STADA",
+        "application": "EMEA/H/C/006615",
+        "authorised": "15/07/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/liraglutide-stada-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Myqorzo",
+        "application": "EMEA/H/C/006228",
+        "authorised": "12/02/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/myqorzo-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Nezglyal",
+        "application": "EMEA/H/C/006693",
+        "authorised": "21/09/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/nezglyal-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Ojemda",
+        "application": "EMEA/H/C/006140",
+        "authorised": "20/04/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/ojemda-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Ondibta",
+        "application": "EMEA/H/C/006136",
+        "authorised": "09/01/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/ondibta-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Onerji",
+        "application": "EMEA/H/C/006429",
+        "authorised": "27/04/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/onerji-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Osqay",
+        "application": "EMEA/H/C/006492",
+        "authorised": "08/01/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/osqay-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Palbociclib Viatris",
+        "application": "EMEA/H/C/006624",
+        "authorised": "19/06/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/palbociclib-viatris-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Palsonify",
+        "application": "EMEA/H/C/006636",
+        "authorised": "23/04/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/palsonify-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Poherdy",
+        "application": "EMEA/H/C/006583",
+        "authorised": "23/04/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/poherdy-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Ranluspec",
+        "application": "EMEA/H/C/006502",
+        "authorised": "10/02/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/ranluspec-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Redemplo",
+        "application": "EMEA/H/C/006579",
+        "authorised": "19/06/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/redemplo-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Rexatilux",
+        "application": "EMEA/H/C/006634",
+        "authorised": "19/06/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/rexatilux-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Rezurock",
+        "application": "EMEA/H/C/006421",
+        "authorised": "24/03/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/rezurock-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Rhapsido",
+        "application": "EMEA/H/C/006313",
+        "authorised": "23/04/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/rhapsido-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Ruxolitinib Viatris",
+        "application": "EMEA/H/C/006618",
+        "authorised": "18/09/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/ruxolitinib-viatris-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Supemtek",
+        "application": "EMEA/H/C/006674",
+        "authorised": "30/03/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/supemtek-epar-public-assessment-report_en.pdf-0",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Susvimo",
+        "application": "EMEA/H/C/006527",
+        "authorised": "18/09/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/susvimo-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Tafamidis Accord",
+        "application": "EMEA/H/C/006711",
+        "authorised": "18/09/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/tafamidis-accord-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Teduglutide Viatris",
+        "application": "EMEA/H/C/006564",
+        "authorised": "08/01/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/teduglutide-viatris-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Teizeild",
+        "application": "EMEA/H/C/005496",
+        "authorised": "08/01/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/teizeild-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Tuyory",
+        "application": "EMEA/H/C/006416",
+        "authorised": "27/04/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/tuyory-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "VacPertagen",
+        "application": "EMEA/H/C/006304",
+        "authorised": "09/01/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/vacpertagen-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Vijoice",
+        "application": "EMEA/H/C/006539",
+        "authorised": "15/07/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/vijoice-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Vislyfa",
+        "application": "EMEA/H/C/006926",
+        "authorised": "15/07/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/vislyfa-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Waskyra",
+        "application": "EMEA/H/C/006525",
+        "authorised": "09/01/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/waskyra-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Xolremdi",
+        "application": "EMEA/H/C/006496",
+        "authorised": "27/04/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/xolremdi-epar-public-assessment-report_en.pdf",
+        "status": "hit"
+      },
+      {
+        "drug": "Zandoriah",
+        "application": "EMEA/H/C/006688",
+        "authorised": "27/04/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/zandoriah-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Zepzelca",
+        "application": "EMEA/H/C/006673",
+        "authorised": "29/05/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/zepzelca-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "Zokovea",
+        "application": "EMEA/H/C/006063",
+        "authorised": "18/09/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/zokovea-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "mCombriax",
+        "application": "EMEA/H/C/006472",
+        "authorised": "20/04/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/mcombriax-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      },
+      {
+        "drug": "mNexspike",
+        "application": "EMEA/H/C/006428",
+        "authorised": "12/02/2026",
+        "pdf": "https://www.ema.europa.eu/en/documents/assessment-report/mnexspike-epar-public-assessment-report_en.pdf",
+        "status": "no study-or-judgement passage"
+      }
+    ]
+  },
+  "fda": {
+    "method": "FDA novel drug approvals for 2026 with an approval date on or before 24 October 2026. Integrated, medical, or statistical review when posted on Drugs@FDA.",
+    "listed": 47,
+    "approved_before_previous_search": 1,
+    "hits": 11,
+    "no_review": 7,
+    "no_passage": 26,
+    "unresolved": 1,
+    "results": [
+      {
+        "number": "47",
+        "drug": "Hibsago",
+        "ingredient": "bepirovirsen",
+        "approved": "2026-10-20",
+        "use": "To treat chronic hepatitis B virus infection in certain adults without cirrhosis, in combination with existing antiviral therapy",
+        "before_previous_search": false,
+        "status": "no review PDF posted",
+        "application": "NDA221276",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=221276",
+        "reviews": []
+      },
+      {
+        "number": "46",
+        "drug": "Hovilpri",
+        "ingredient": "pritelivir",
+        "approved": "2026-10-09",
+        "use": "To treat adults with weakened immune systems who have mucocutaneous lesions caused by herpes simplex virus infection and have not responded to other therapies",
+        "before_previous_search": false,
+        "status": "application number not found"
+      },
+      {
+        "number": "45",
+        "drug": "Emcitate",
+        "ingredient": "tiratricol",
+        "approved": "2026-09-28",
+        "use": "To treat peripheral thyrotoxicosis in patients with MCT8 deficiency",
+        "before_previous_search": false,
+        "status": "no review PDF posted",
+        "application": "NDA220963",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220963",
+        "reviews": []
+      },
+      {
+        "number": "44",
+        "drug": "Atebrioz",
+        "ingredient": "zilurgisertib",
+        "approved": "2026-09-25",
+        "use": "To reduce the volume of total new heterotopic ossification in adults and pediatric patients 12 years and older with fibrodysplasia ossificans progressiva",
+        "before_previous_search": false,
+        "status": "no review PDF posted",
+        "application": "NDA221198",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=221198",
+        "reviews": []
+      },
+      {
+        "number": "43",
+        "drug": "Juvmo",
+        "ingredient": "tavapadon",
+        "approved": "2026-09-25",
+        "use": "To treat Parkinson\u2019s disease in adults",
+        "before_previous_search": false,
+        "status": "no review PDF posted",
+        "application": "NDA220415",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220415",
+        "reviews": []
+      },
+      {
+        "number": "42",
+        "drug": "Lyrfigtu",
+        "ingredient": "lirafugratinib",
+        "approved": "2026-09-23",
+        "use": "To adults with previously treated unresectable, locally advanced or metastatic cholangiocarcinoma harboring a fibroblast growth factor receptor 2 gene fusion or other rearrangement",
+        "before_previous_search": false,
+        "status": "no review PDF posted",
+        "application": "NDA220425",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220425",
+        "reviews": []
+      },
+      {
+        "number": "41",
+        "drug": "Onswik",
+        "ingredient": "insulin efsitora alfa-gobe",
+        "approved": "2026-09-23",
+        "use": "To improve glycemic control in adults with type 2 diabetes mellitus, as an adjunct to diet and exercise",
+        "before_previous_search": false,
+        "status": "no review PDF posted",
+        "application": "BLA761408",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761408",
+        "reviews": []
+      },
+      {
+        "number": "40",
+        "drug": "Pixclara",
+        "ingredient": "floretyrosine F 18",
+        "approved": "2026-09-11",
+        "use": "To use with positron emission tomography to differentiate recurrent or progressive glioma from treatment-related change in conjunction with other diagnostic evaluations",
+        "before_previous_search": false,
+        "status": "hit",
+        "application": "NDA218592",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=218592",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/218592Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "39",
+        "drug": "Isembyld",
+        "ingredient": "apitegromab-mstn",
+        "approved": "2026-09-11",
+        "use": "To treat spinal muscular atrophy in adults and pediatric patients 2 years of age and older who are currently receiving an SMN2-targeted treatment",
+        "before_previous_search": false,
+        "status": "no review PDF posted",
+        "application": "BLA761463",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761463",
+        "reviews": []
+      },
+      {
+        "number": "38",
+        "drug": "Etcamah",
+        "ingredient": "camizestrant",
+        "approved": "2026-09-04",
+        "use": "To treat hormone receptor-positive, human epidermal growth factor receptor 2-negative, locally advanced or metastatic breast cancer upon detection of ESR1 mutation during aromatase inhibitor and CDK4/6 inhibitor therapy",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA220359",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220359",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220359Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "37",
+        "drug": "Zanvastro",
+        "ingredient": "zilganersen",
+        "approved": "2026-09-03",
+        "use": "To treat Alexander disease in pediatric and adult patients",
+        "before_previous_search": false,
+        "status": "hit",
+        "application": "NDA220210",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220210",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220210Orig1s000IntegratedR.pdf"
+        ]
+      },
+      {
+        "number": "36",
+        "drug": "Mimrylo",
+        "ingredient": "rusfertide",
+        "approved": "2026-08-28",
+        "use": "To treat erythrocytosis in adults with polycythemia vera",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA220605",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220605",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220605Orig1s000IntegratedR.pdf"
+        ]
+      },
+      {
+        "number": "35",
+        "drug": "Lisraya",
+        "ingredient": "brepocitinib",
+        "approved": "2026-08-27",
+        "use": "To treat dermatomyositis in adults",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA220106",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220106",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220106Orig1s000IntegratedR.pdf"
+        ]
+      },
+      {
+        "number": "34",
+        "drug": "Rasonque",
+        "ingredient": "daraxonrasib",
+        "approved": "2026-08-26",
+        "use": "To treat metastatic pancreatic cancer",
+        "before_previous_search": false,
+        "status": "hit",
+        "application": "NDA220910",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220910",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220910Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "33",
+        "drug": "Pasatru",
+        "ingredient": "garetosmab-grts",
+        "approved": "2026-08-19",
+        "use": "To reduce new heterotopic ossification and clinician-assessed disease flare-ups in adults with fibrodysplasia ossificans progressiva",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "BLA761508",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761508",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761508Orig1s000IntegratedR.pdf"
+        ]
+      },
+      {
+        "number": "32",
+        "drug": "Zenbexus",
+        "ingredient": "iberdomide",
+        "approved": "2026-08-13",
+        "use": "To be used in combination with daratumumab and hyaluronidase-fihj and dexamethasone for adults with multiple myeloma who have received at least one prior line of therapy, including a proteasome inhibitor and an immunomodulatory agent",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA221075",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=221075",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/221075Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "31",
+        "drug": "Tauklarify",
+        "ingredient": "florquinitau F 18",
+        "approved": "2026-08-13",
+        "use": "To be used for positron emission tomography of the brain in adults with cognitive impairment who are being evaluated for Alzheimer disease to identify patients with tau neurofibrillary tangle pathology",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA220496",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220496",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220496Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "30",
+        "drug": "Orzeyful",
+        "ingredient": "oveporexton",
+        "approved": "2026-08-05",
+        "use": "To treat narcolepsy type 1",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA220860",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220860",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220860Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "29",
+        "drug": "Simtriyo",
+        "ingredient": "centanafadine",
+        "approved": "2026-07-24",
+        "use": "To treat attention-deficit hyperactivity disorder",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA218145",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=218145",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/218145Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "28",
+        "drug": "Lytenava",
+        "ingredient": "bevacizumab-vikg",
+        "approved": "2026-07-24",
+        "use": "To treat patients with neovascular (wet) age-related macular degeneration",
+        "before_previous_search": false,
+        "status": "hit",
+        "application": "BLA761320",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761320",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761320Orig1s000StatR.pdf",
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761320Orig1s000SumR.pdf"
+        ]
+      },
+      {
+        "number": "27",
+        "drug": "Jideytro",
+        "ingredient": "zidesamtinib",
+        "approved": "2026-07-22",
+        "use": "To treat adults with locally advanced or metastatic ROS1-positive non-small cell lung cancer after receiving a ROS1 kinase inhibitor",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA220185",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220185",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220185Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "26",
+        "drug": "Lipfendra",
+        "ingredient": "enlicitide decanoate",
+        "approved": "2026-07-15",
+        "use": "To reduce low-density lipoprotein cholesterol",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA220848",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220848",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220848Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "25",
+        "drug": "Revtorpyk",
+        "ingredient": "gedatolisib",
+        "approved": "2026-07-14",
+        "use": "In combination with fulvestran, to treat hormone receptor-positive, human epidermal growth factor receptor 2-negative, locally advanced or metastatic breast cancer without a PIK3CA mutation detected following progression on or after treatment with at least one line of endocrine therapy in the metastatic setting",
+        "before_previous_search": false,
+        "status": "hit",
+        "application": "NDA219908",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219908",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/219908Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "24",
+        "drug": "Trutakna",
+        "ingredient": "atacicept-vymj",
+        "approved": "2026-07-07",
+        "use": "To reduce proteinuria in adults with primary immunoglobulin A nephropathy at risk for disease progression",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "BLA761486",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761486",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761486Orig1s000IntegratedR.pdf"
+        ]
+      },
+      {
+        "number": "23",
+        "drug": "Lumvoa",
+        "ingredient": "veligrotug-vvze",
+        "approved": "2026-06-26",
+        "use": "To treat thyroid eye disease",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "BLA761530",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761530",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761530Orig1s000MedR.pdf",
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761530Orig1s000StatR.pdf"
+        ]
+      },
+      {
+        "number": "22",
+        "drug": "Utebzi",
+        "ingredient": "tebipenem pivoxil",
+        "approved": "2026-06-17",
+        "use": "To treat complicated urinary tract infections, including pyelonephritis, caused by several susceptible microorganisms in adults who have limited or no alternative oral treatment options",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA215960",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=215960",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/215960Orig1s000IntegratedR.pdf"
+        ]
+      },
+      {
+        "number": "21",
+        "drug": "Ambelvist",
+        "ingredient": "gadoquatrane",
+        "approved": "2026-06-12",
+        "use": "To detect and visualize lesions with abnormal vascularity, in conjunction with MRI",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA219627",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219627",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/219627Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "20",
+        "drug": "Cypsedo",
+        "ingredient": "cipepofol",
+        "approved": "2026-05-29",
+        "use": "To induce general anesthesia in adults undergoing surgery",
+        "before_previous_search": false,
+        "status": "passage was not a study or a judgement",
+        "application": "NDA220482",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220482",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220482Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "19",
+        "drug": "Xocova",
+        "ingredient": "ensitrelvir",
+        "approved": "2026-05-29",
+        "use": "To use as post-exposure prophylaxis of coronavirus disease 2019 (COVID-19) following contact with an individual who has COVID-19",
+        "before_previous_search": false,
+        "status": "passage was not a study or a judgement",
+        "application": "NDA220442",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220442",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/NDA/2026/220442Orig1s000SumR.pdf"
+        ]
+      },
+      {
+        "number": "18",
+        "drug": "Zaynich",
+        "ingredient": "cefepime and zidebactam",
+        "approved": "2026-05-29",
+        "use": "To treat complicated urinary tract infections, including pyelonephritis, caused by designated susceptible microorganisms",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA220787",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220787",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220787Orig1s000IntegratedR.pdf"
+        ]
+      },
+      {
+        "number": "17",
+        "drug": "Decnupaz",
+        "ingredient": "pivekimab sunirine-pvzy",
+        "approved": "2026-05-27",
+        "use": "To treat adults with blastic plasmacytoid dendritic cell neoplasm Drug Trials Snapshot",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "BLA761460",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761460",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761460Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "16",
+        "drug": "Hepcludex",
+        "ingredient": "bulevirtide-gmod",
+        "approved": "2026-05-22",
+        "use": "To treat chronic hepatitis delta virus infection in adults without cirrhosis or with compensated cirrhosis",
+        "before_previous_search": false,
+        "status": "hit",
+        "application": "BLA761468",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761468",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761468Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "15",
+        "drug": "Baxfendy",
+        "ingredient": "baxdrostat",
+        "approved": "2026-05-15",
+        "use": "To treat hypertension in combination with other antihypertensive drugs",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA219878",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219878",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/219878Orig1s000MedR.pdf"
+        ]
+      },
+      {
+        "number": "14",
+        "drug": "Beqalzi",
+        "ingredient": "sonrotoclax",
+        "approved": "2026-05-13",
+        "use": "To treat adults with relapsed or refractory mantle cell lymphoma after at least two lines of systemic therapy, including a Bruton\u2019s tyrosine kinase inhibitor",
+        "before_previous_search": false,
+        "status": "hit",
+        "application": "NDA220711",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220711",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220711Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "13",
+        "drug": "Veppanu",
+        "ingredient": "vepdegestrant",
+        "approved": "2026-05-01",
+        "use": "To treat estrogen receptor-positive, human epidermal growth factor receptor 2-negative, ESR1-mutated advanced or metastatic breast cancer with disease progression following at least one line of endocrine therapy",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA219835",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219835",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/219835Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "12",
+        "drug": "Idvynso",
+        "ingredient": "doravirine and islatravir",
+        "approved": "2026-04-20",
+        "use": "To treat HIV-1 infection (as a complete regimen) in adults to replace the current antiretroviral regimen in those who are virologically-suppressed on a stable antiretroviral regimen with no history of virologic treatment failure and no known substitutions associated with resistance to doravirine",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA216964",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=216964",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/216964s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "11",
+        "drug": "Foundayo",
+        "ingredient": "orforglipron",
+        "approved": "2026-04-01",
+        "use": "To reduce excess body weight and maintain weight reduction long term in adults with obesity or adults with overweight in the presence of at least one weight-related comorbid condition, in combination with a reduced-calorie diet and increased physical activity",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA220934",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220934",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220934Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "10",
+        "drug": "Awiqli",
+        "ingredient": "insulin icodec-abae",
+        "approved": "2026-03-26",
+        "use": "To improve glycemic control in adults with type 2 diabetes mellitus",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "BLA761326",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761326",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761326Orig2s000MedR.pdf",
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761326Orig2s000StatR.pdf",
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761326Orig2s000SumR.pdf"
+        ]
+      },
+      {
+        "number": "9",
+        "drug": "Lifyorli",
+        "ingredient": "relacorilant",
+        "approved": "2026-03-25",
+        "use": "To treat platinum-resistant epithelial ovarian, fallopian tube, or primary peritoneal cancer after one to three prior systemic treatment regimens, at least one of which included bevacizumab",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA220641",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220641",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220641Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "8",
+        "drug": "Avlayah",
+        "ingredient": "tividenofusp alfa-eknm",
+        "approved": "2026-03-24",
+        "use": "To treat certain individuals with Hunter syndrome (Mucopolysaccharidosis type II or MPS II)",
+        "before_previous_search": false,
+        "status": "hit",
+        "application": "BLA761485",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761485",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761485Orig1s000IntegratedR.pdf"
+        ]
+      },
+      {
+        "number": "7",
+        "drug": "Icotyde",
+        "ingredient": "icotrokinra",
+        "approved": "2026-03-17",
+        "use": "To treat moderate-to-severe plaque psoriasis in patients 12 years and older who weigh at least 40 kg and who are candidates for systemic therapy or phototherapy Drug Trials Snapshot",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA220149",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220149",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220149Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "6",
+        "drug": "Lynavoy",
+        "ingredient": "linerixibat",
+        "approved": "2026-03-17",
+        "use": "To treat cholestatic pruritus associated with primary biliary cholangitis",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA220295",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220295",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220295Orig1s000IntegratedR.pdf"
+        ]
+      },
+      {
+        "number": "5",
+        "drug": "Yuviwel",
+        "ingredient": "navepegritide",
+        "approved": "2026-02-27",
+        "use": "To increase linear growth in pediatric patients 2 years and older with achondroplasia with open epiphyses",
+        "before_previous_search": false,
+        "status": "hit",
+        "application": "NDA219164",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219164",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/219164Orig1s000IntegratedR.pdf"
+        ]
+      },
+      {
+        "number": "4",
+        "drug": "Loargys",
+        "ingredient": "pegzilarginase-nbln",
+        "approved": "2026-02-23",
+        "use": "To treat hyperarginemia in adults and pediatric patients two years and older with Arginase 1 Deficiency, in conjunction with dietary protein restriction",
+        "before_previous_search": false,
+        "status": "hit",
+        "application": "BLA761211",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=761211",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/761211Orig1s000IntegratedR.pdf"
+        ]
+      },
+      {
+        "number": "3",
+        "drug": "Bysanti",
+        "ingredient": "milsaperidone",
+        "approved": "2026-02-20",
+        "use": "To treat schizophrenia and to treat manic or mixed episodes associated with bipolar I disorder",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA220358",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=220358",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/220358Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "2",
+        "drug": "Adquey",
+        "ingredient": "difamilast",
+        "approved": "2026-02-12",
+        "use": "To treat mild to moderate atopic dermatitis",
+        "before_previous_search": false,
+        "status": "reviews read; no study-or-judgement passage",
+        "application": "NDA219474",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=219474",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/219474Orig1s000MultidisciplineR.pdf"
+        ]
+      },
+      {
+        "number": "1",
+        "drug": "Zycubo",
+        "ingredient": "copper histidinate",
+        "approved": "2026-01-12",
+        "use": "To treat Menkes disease Drug Trials Snapshot",
+        "before_previous_search": true,
+        "status": "hit",
+        "application": "NDA211241",
+        "source_url": "https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=211241",
+        "reviews": [
+          "https://www.accessdata.fda.gov/drugsatfda_docs/nda/2026/211241Orig1s000IntegratedR.pdf"
+        ]
+      }
+    ]
+  },
+  "hit_count": 26
+}

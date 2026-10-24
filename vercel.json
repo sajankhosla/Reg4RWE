@@ -1,0 +1,22 @@
+{
+  "functions": {
+    "api/appraise.py": {
+      "includeFiles": "data/corpus.json"
+    }
+  },
+  "rewrites": [
+    { "source": "/", "destination": "/web/index.html" },
+    { "source": "/app.js", "destination": "/web/app.js" },
+    { "source": "/styles.css", "destination": "/web/styles.css" },
+    { "source": "/corpus.json", "destination": "/data/corpus.json" },
+    { "source": "/api/corpus", "destination": "/data/corpus.json" }
+  ],
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        { "key": "Access-Control-Allow-Origin", "value": "*" }
+      ]
+    }
+  ]
+}

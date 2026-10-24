@@ -1,0 +1,1542 @@
+{
+  "checked_on": "2026-10-24",
+  "sources": [
+    {
+      "id": "cder-approvals",
+      "label": "CDER drug approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence"
+    },
+    {
+      "id": "cder-postmarketing",
+      "label": "CDER postmarketing studies",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence"
+    },
+    {
+      "id": "cber-safety",
+      "label": "CBER safety labeling",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted"
+    }
+  ],
+  "counts": {
+    "examples": 70,
+    "in_both": 70,
+    "fda_only": 0,
+    "corpus_only": 40,
+    "corpus_fda": 105
+  },
+  "in_both": [
+    {
+      "id": "cder-approvals-01",
+      "table": "CDER drug approvals",
+      "table_id": "cder-approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence",
+      "product": "Acetadote (acetylcysteine) NDA 021539",
+      "action": "Approval of an efficacy supplement to change dosing regimen: 11/26/2024",
+      "summary": "RWE contributed to SEE. A retrospective cohort study using medical chart review (DIVAS) was conducted in clinical centers in Denmark and used to support a dosing regimen change for Acetadote when randomized controlled trials were deemed unethical and impractical. This study compared the efficacy and safety of a two-bag dosing regimen to a three-bag dosing regimen. The study was positioned as one part of a comprehensive evidence package that also included RWE from other observational studies repo",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-approvals-01",
+          "drug": "Acetadote (acetylcysteine)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-approvals-02",
+      "table": "CDER drug approvals",
+      "table_id": "cder-approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence",
+      "product": "Onapgo (apomorphine) NDA 214056",
+      "action": "Additional safety data to support approval of a new formulation: 2/3/2025",
+      "summary": "RWE contributed additional safety data. A study using medical record and pharmacy data from four European sources (UK Pathfinder database, a French neurology clinic, a Spanish hospital, and a Dutch pharmacy database) described safety outcomes in patients with advanced Parkinson's disease treated chronically (≥365 days) with high-dose continuous subcutaneous apomorphine infusion (≥6mg/hr or ≥100 mg/day). This data was intended to supplement the clinical development program's limited high-dose, lo",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-approvals-02",
+          "drug": "Onapgo (apomorphine)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-approvals-03",
+      "table": "CDER drug approvals",
+      "table_id": "cder-approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence",
+      "product": "Isturisa (osilodrostat) NDA 212801",
+      "action": "Approval of an efficacy supplement for a new indication: 4/15/2025",
+      "summary": "RWE contributed to confirmatory evidence. The LINC7 study was a retrospective cohort study conducted in France to evaluate the safety and effectiveness of Osilodrostat for the Treatment of Non-Cushing's Disease Cushing's Syndrome. As its primary outcome, the study assessed the proportion of patients achieving mean urinary free cortisol ≤ upper limit of normal (ULN) at Week 12. FDA approved the expanded indication from Cushing's disease (pituitary driven) to all Cushing's syndrome subtypes (regar",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-approvals-03",
+          "drug": "Isturisa (osilodrostat)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-approvals-04",
+      "table": "CDER drug approvals",
+      "table_id": "cder-approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence",
+      "product": "Gamifant (emapalumab-lzsg) BLA 761107",
+      "action": "Approval of an efficacy supplement for a new Indication: 6/27/2025",
+      "summary": "RWE contributed to SEE. In two single-arm open-label studies designed to assess efficacy of Gamifant, the primary analysis achieved marginal statistical significance (p=0.056) with the pre-specified efficacy threshold of 40% complete response rate. FDA, therefore, recommended the Applicant identify a control to interpret the treatment effect of emapalumab in subjects with macrophage activation syndrome (MAS)/ hemophagocytic lymphohistiocytosis (HLH) who had an inadequate response or intolerance ",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-approvals-04",
+          "drug": "Gamifant (emapalumab-lzsg)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-approvals-05",
+      "table": "CDER drug approvals",
+      "table_id": "cder-approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence",
+      "product": "Kygevvi (doxecitine and doxribtimine) NDA 219792",
+      "action": "NME Approval: 11/3/2025",
+      "summary": "RWE contributed to SEE. A single adequate and well-conrolled clinical investigation (AWCI) and confirmatory evidence were used to demonstrate SEE for doxecitine and doxribtimine in patients with thymidine kinase 2 deficiency (TK2d). The single AWCI was an integrated effectiveness assessment using pooled data on treated patients from a single arm trial, two retrospective medical chart review studies and an expanded access program. Information on untreated subjects came from medical literature and",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-approvals-05",
+          "drug": "Kygevvi (doxecitine and doxribtimine)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-approvals-06",
+      "table": "CDER drug approvals",
+      "table_id": "cder-approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence",
+      "product": "Aurlumyn® (Iloprost) NDA 217933",
+      "action": "02/13/2024",
+      "summary": "A multicenter retrospective cohort study of frostbite patients with a historical control that used data from medical records and that was published in the literature in July 2022 was used as confirmatory evidence. Labeling",
+      "matches": [
+        {
+          "id": "FDA-076",
+          "drug": "Aurlumyn (Iloprost)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-approvals-07",
+      "table": "CDER drug approvals",
+      "table_id": "cder-approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence",
+      "product": "Vimpat® (Lacosamide) NDA 022253",
+      "action": "04/28/2023",
+      "summary": "The agency was able to extrapolate efficacy for the treatment of partial onset seizures (in patients aged ≥ 1 month < 17 years) and primary generalized tonic–clonic seizures (in patients aged ≥ 4 years to < 17 years) from existing data, but additional safety data were needed to support the new proposed loading dose regimen. Labeling",
+      "matches": [
+        {
+          "id": "FDA-053",
+          "drug": "Vimpat (Lacosamide)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-approvals-08",
+      "table": "CDER drug approvals",
+      "table_id": "cder-approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence",
+      "product": "Actemra (Tocilizumab) BLA 125276",
+      "action": "12/21/2022",
+      "summary": "The approval was based, in part, on a randomized controlled clinical trial that leveraged RWD collected from national death records to evaluate 28-day mortality, the trial's primary endpoint. Labeling",
+      "matches": [
+        {
+          "id": "FDA-011",
+          "drug": "Actemra (Tocilizumab)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-approvals-09",
+      "table": "CDER drug approvals",
+      "table_id": "cder-approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence",
+      "product": "Vijoice® (Alpelisib) NDA 215039",
+      "action": "04/05/2022",
+      "summary": "The approval was based on a single-arm study of data from patients who were treated through an expanded access program. Medical record data were derived from seven sites across five countries. Labeling",
+      "matches": [
+        {
+          "id": "FDA-070",
+          "drug": "Vijoice (Alpelisib)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-approvals-10",
+      "table": "CDER drug approvals",
+      "table_id": "cder-approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence",
+      "product": "Orencia® (Abatacept) BLA 125118",
+      "action": "12/15/2021",
+      "summary": "The approval was based on a traditional randomized clinical trial in patients with a matched unrelated donor and a non-interventional study in patients with a one allele-mismatched unrelated donor. Labeling",
+      "matches": [
+        {
+          "id": "FDA-007",
+          "drug": "Orencia (Abatacept)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-approvals-11",
+      "table": "CDER drug approvals",
+      "table_id": "cder-approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence",
+      "product": "Voxzogo® (Vosoritide) NDA 214938",
+      "action": "11/19/2021",
+      "summary": "The approval was based on one randomized clinical trial and RWE generated through two single-arm trials with external control groups from RWD comprised of patient-level anthropometric data. Labeling",
+      "matches": [
+        {
+          "id": "FDA-069",
+          "drug": "Vosoritide (Voxzogo)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-approvals-12",
+      "table": "CDER drug approvals",
+      "table_id": "cder-approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence",
+      "product": "Prograf® (Tacrolimus) NDA 050708",
+      "action": "07/16/2021",
+      "summary": "The approval was in part based on a non-interventional study that evaluated graft failure and death up to one year post transplant in recipients of single-or double-lung transplants enrolled in the Scientific Registry of Transplant Recipients registry (SRTR). Labeling",
+      "matches": [
+        {
+          "id": "FDA-057",
+          "drug": "Prograf (Tacrolimus)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-approvals-13",
+      "table": "CDER drug approvals",
+      "table_id": "cder-approvals",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-drug-approvals-used-real-world-evidence",
+      "product": "Nulibry® (Fosdenopterin) NDA 214018",
+      "action": "02/26/2021",
+      "summary": "The study that led to the approval included RWD in both the treatment and control arms. Specifically, the treatment arm pooled data from participants in two single-arm trials with data from patients enrolled in an expanded access program. Labeling",
+      "matches": [
+        {
+          "id": "FDA-066",
+          "drug": "Fosdenopterin (Nulibry)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-01",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Elelyso (Taliglucerase Alfa) BLA 22458",
+      "action": "Labeling",
+      "summary": "PMR 1895-6: To evaluate the effect of ELELYSO (taliglucerase alfa) for injection on pregnancy and fetal outcomes, and to collect detailed clinical status information on newborns and infants whose mothers are treated with ELELYSO (taliglucerase alfa) for injection during lactation.",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-postmarketing-01",
+          "drug": "Elelyso (Taliglucerase Alfa)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-02",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Vimizim (Elosulfase Alfa) BLA 125460",
+      "action": "Labeling",
+      "summary": "PMR 2337-1: Evaluate the long-term safety of Vimizim in adult and pediatric patients enrolled in the Morquio A Registry for a period of ten years, including but not limited to the occurrence of serious hypersensitivity reactions, anaphylaxis, and changes in antibody status (i.e., detection and titers of binding and neutralizing antibodies, and detection of IgE antibodies). Pregnancy exposure data, including maternal, neonatal and infant outcomes, will also be collected and analyzed. Include inci",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-postmarketing-02",
+          "drug": "Vimizim (Elosulfase Alfa)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-03",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Otezla (Apremilast) NDA 205437",
+      "action": "Labeling",
+      "summary": "PMR 2135-1: A prospective, observational, controlled, pregnancy exposure registry study to monitor pregnancies exposed to apremilast with the primary objective to evaluate whether there is any increase in the risk of birth defects.",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-postmarketing-03",
+          "drug": "Otezla (Apremilast)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-04",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Belbuca (buprenorphine hydrochloride) NDA 207932, Xtampza ER (oxycodone) NDA 208090, Nucynta ER (tapentadol) NDA 200533, MS Contin (morphine sulfate) NDA 19516, OxyContin (oxycodone hydrochloride) NDA 22272, Hysingla ER (hydrocodone bitartrate) NDA 206627, Butrans (buprenorphine) NDA 21306",
+      "action": "DSC Labeling: Belbuca (buprenorphine hydrochloride) tampza ER (oxycodone) Nucynta ER (tapentadol) MS Contin (morphine sulfate) OxyContin (oxycodone hydrochloride) Hysingla ER (hydrocodone bitartrate) Butrans (buprenorphine)",
+      "summary": "PMR 3033-1: A prospective, observational study designed to quantify the serious risks of misuse, abuse, and addiction associated with long-term use of opioid analgesics for management of chronic pain among patients prescribed ER/LA opioid analgesics. This study must address at a minimum the following specific objectives: a. Estimate the incidence of misuse, abuse, and addiction associated with long-term use of opioid analgesics for chronic pain. Examine the effect of product/formulation, dose an",
+      "matches": [
+        {
+          "id": "FDA-054",
+          "drug": "OxyContin (oxycodone ER)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-05",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Belbuca (buprenorphine hydrochloride) NDA 207932, Xtampza ER (oxycodone) NDA 208090, Nucynta ER (tapentadol) NDA 200533, MS Contin (morphine sulfate) NDA 19516, OxyContin (oxycodone hydrochloride) NDA 22272, Hysingla ER (hydrocodone bitartrate) NDA 206627, Butrans (buprenorphine) NDA 21306",
+      "action": "DSC Labeling: Belbuca (buprenorphine hydrochloride) Xtampza ER (oxycodone) Nucynta ER (tapentadol) MS Contin (morphine sulfate) OxyContin (oxycodone hydrochloride) Hysingla ER (hydrocodone bitartrate) Butrans (buprenorphine)",
+      "summary": "PMR 3033- 2: An observational study designed to measure the incidence and predictors of opioid overdose and death (OOD), as well as opioid abuse/addiction, using patient health records, insurance claims, and death records. This study must address at a minimum the following specific objectives: a. Estimate the incidence of abuse/addiction, overdose, and death associated with long-term use of opioid analgesics for chronic pain. Stratify overdose by intentionality wherever possible. Examine the eff",
+      "matches": [
+        {
+          "id": "FDA-054",
+          "drug": "OxyContin (oxycodone ER)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-06",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Oral anticoagulants: Eliquis (Apixaban), Pradaxa (Dabigatran), Xarelto (Rivaroxaban) Multiple NDAs",
+      "action": "Publication Publication Sentinel website",
+      "summary": "Following reports of cutaneous small-vessel vasculitis (CSVV) in patients treated with non-vitamin K oral anticoagulants (NOAC) from premarket trials and the FDA Adverse Event Monitoring System (AEMS), the FDA conducted a study in Sentinel to assess CSVV risk. The study compared CSVV incidence among new users of NOACs versus warfarin in patients with atrial fibrillation. No statistically significant differential CSVV risk was observed between new users of NOACs and warfarin, and FDA determined t",
+      "matches": [
+        {
+          "id": "FDA-029",
+          "drug": "Oral anticoagulants (class)",
+          "basis": "product name"
+        },
+        {
+          "id": "FDA-055",
+          "drug": "Pradaxa (dabigatran)",
+          "basis": "product name"
+        },
+        {
+          "id": "FDA-056",
+          "drug": "Pradaxa (dabigatran)",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-07",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Angiotensin receptor blockers Multiple NDAs",
+      "action": "Sentinel website Publication Publication",
+      "summary": "Following recalls of valsartan products containing potentially carcinogenic nitrosamine impurities, N-nitrosodimethylamine (NDMA) and N-nitrosodiethylamine (NDEA), beginning in July 2018, the FDA conducted studies using the Sentinel System and data from the UK, Canada, and Denmark to estimate the number of patients exposed to recalled products and examine angiotensin II receptor blocker usage and switching patterns before and after the recalls. These findings indicated that exposure to nitrosami",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-postmarketing-07",
+          "drug": "Angiotensin receptor blockers",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-08",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Glucagon-like peptide-1 receptor agonists (GLP-1 RA) Multiple NDAs",
+      "action": "DSC Sentinel website",
+      "summary": "FDA conducted a retrospective cohort study using administrative healthcare claims data from the Sentinel System to compare the risk of intentional self-harm between new users of glucagon-like peptide-1 (GLP-1 RAs) and sodium-glucose cotransporter 2 inhibitors (SGLT2i) in patients with type 2 diabetes mellitus and did not find an increased risk of intentional self-harm in GLP-1 RA users compared to SGLT2i users. The study results were consistent with other evidence, including a comprehensive meta",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-postmarketing-08",
+          "drug": "Glucagon-like peptide-1 receptor agonists (GLP-1 RA)",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-09",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Sodium-Glucose Co-Transporter 2 Inhibitors Multiple NDAs",
+      "action": "2 019 EMDAC 2024 EMDAC Sentinel website",
+      "summary": "In 2018 and 2024, the FDA conducted studies using the Sentinel System to describe the risk of diabetic ketoacidosis (DKA) among patients with type 1 diabetes mellitus (T1DM) who received SGLT2 inhibitors over time and across stages of chronic kidney disease (CKD). These descriptive analyses found that crude incidence rates of DKA in patients with T1DM who initiated SGLT2 inhibitors did not appear to have declined from 2013 to 2024 and that there is an increase in incidence rate of DKA with advan",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-postmarketing-09",
+          "drug": "Sodium-Glucose Co-Transporter 2 Inhibitors",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-10",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Keppra (Levetiracetam) NDA 21035, NDA 21505, NDA 21872, and NDA 22285",
+      "action": "Labeling: NDA 21035 NDA 21505 NDA 21872 NDA 22285 Sentinel website",
+      "summary": "To evaluate a potential safety signal for anaphylaxis and angioedema with the use of Keppra (levetiracetam) identified during routine post-market safety surveillance of the FDA Adverse Event Monitoring System (AEMS), FDA conducted an analysis in the Sentinel System as part of an integrated safety review. The Sentinel analysis found that the incidence rate of angioedema in new users of levetiracetam was similar to the rates for other antiepileptic drugs that were already labeled for this risk. Ba",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-postmarketing-10",
+          "drug": "Keppra (Levetiracetam)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-11",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Proton pump inhibitors Multiple NDAs",
+      "action": "Sentinel website",
+      "summary": "To assess safety signals from published reports, FDA conducted a Sentinel System study to determine whether use of proton pump inhibitors (PPIs) increases the risk of COVID-19 hospitalization and severe COVID-19 outcomes. This cohort study found no significant increase in the risk of COVID-19 hospitalization or severe COVID-19 outcomes with PPI use compared to famotidine use, which was consistent with results from an FDA-led case-control study conducted using Medicare data, strengthening FDA's c",
+      "matches": [
+        {
+          "id": "FDA-036",
+          "drug": "Proton pump inhibitors (PPI)",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-12",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Stelara (ustekinumab) BLA 761044",
+      "action": "Sentinel website",
+      "summary": "In response to safety concerns raised during the BLA review for Stelara (ustekinumab), the FDA conducted this Sentinel System study to assess the risk of serious infection in patients with Crohn's disease (CD) during use of ustekinumab (Stelara). The study identified no increased risk for serious infection with ustekinumab use versus a comparator biologic, and FDA determined that the safety information in ustekinumab labeling related to the risk of serious infection in patients with CD was adequ",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-postmarketing-12",
+          "drug": "Stelara (ustekinumab)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-13",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Clozaril (clozapine) NDA 019758, Versacloz (clozapine) NDA 203479",
+      "action": "DSC Sentinel website",
+      "summary": "To inform a comprehensive reevaluation of the clozapine Risk Evaluation and Mitigation Strategy (REMS), FDA conducted analyses in the Sentinel System to understand clozapine users' adherence to absolute neutrophil count (ANC) monitoring requirements, estimate the prevalence of clozapine-associated neutropenia, and understand the clinical context of suspected neutropenia events. These findings were presented, along with other evidence, at the November 19, 2024 Joint Meeting of the Drug Safety and",
+      "matches": [
+        {
+          "id": "FDA-039",
+          "drug": "Clozaril (clozapine)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-14",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Sinuva (Mometasone Furoate Sinus Implant) NDA 209310",
+      "action": "Sentinel website",
+      "summary": "In response to safety concerns raised during the NDA review for Sinuva, FDA conducted a postmarket study to assess the risk of cataracts, diminished visual acuity, glaucoma, nasal septal perforation, and ocular hypertension in the Sentinel System. Given the absence of evidence indicating increased risk and the declining use of Sinuva, the FDA concluded that no regulatory action was necessary.",
+      "matches": [
+        {
+          "id": "FDA-EX-cder-postmarketing-14",
+          "drug": "Sinuva (Mometasone Furoate Sinus Implant)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-15",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "CLOZARIL (clozapine) NDA 019758, Versacloz (clozapine) NDA 203479",
+      "action": "DSC",
+      "summary": "In FDA's review of the effectiveness of the clozapine REMS, FDA conducted several analyses of clozapine registry patients, describing adherence to absolute neutrophil count monitoring, as specified by the clozapine REMS, and estimating the cumulative risk of severe neutropenia.",
+      "matches": [
+        {
+          "id": "FDA-039",
+          "drug": "Clozaril (clozapine)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-16",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Toprol-XL and Lopressor (Metoprolol), Inderal LA (propranolol), [beta blockers] Multiple NDAs",
+      "action": "Sentinel webpage",
+      "summary": "The results from a retrospective cohort study in Sentinel indicated an association between beta blocker use and hypoglycemia in pediatric populations. FDA approved safety labeling changes to describe the risk for hypoglycemia in pediatrics or individuals unable to communicate signs of hypoglycemia.",
+      "matches": [
+        {
+          "id": "FDA-028",
+          "drug": "Beta blockers (Toprol-XL/Lopressor/Inderal LA)",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-17",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Entyvio (vedolizumab) BLA 761359",
+      "action": "Sentinel webpage",
+      "summary": "The results from a descriptive Sentinel study did not indicate an increased risk for Interstitial lung disease (ILD) in patients treated with vedolizumab or natalizumab for inflammatory bowel disease. However, there were other data from case reports from the medical literature and FDA AEMS.",
+      "matches": [
+        {
+          "id": "FDA-013",
+          "drug": "Entyvio (vedolizumab)",
+          "basis": "product name"
+        },
+        {
+          "id": "FDA-023",
+          "drug": "Entyvio (vedolizumab)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-18",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Prolia (Denosumab) BLA 125320",
+      "action": "DSC",
+      "summary": "In FDA's review of denosumab, an FDA retrospective cohort study in Medicare found an increased risk of severe hypocalcemia in patients with advanced chronic kidney disease taking this medication. This resulted in a DSC and addition of a Boxed Warning.",
+      "matches": [
+        {
+          "id": "FDA-012",
+          "drug": "Prolia (denosumab)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-19",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Anticoagulant, oral Multiple NDAs",
+      "action": "Sentinel webpage",
+      "summary": "FDA conducted a retrospective cohort study in the Sentinel System to examine severe uterine bleeding events requiring medical intervention in women treated with oral anticoagulants. The study found a risk of clinically significant uterine bleeding, potentially requiring gynecological surgical interventions.",
+      "matches": [
+        {
+          "id": "FDA-029",
+          "drug": "Oral anticoagulants (class)",
+          "basis": "class"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-20",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Methotrexate, oral Multiple NDAs",
+      "action": "Sentinel webpage",
+      "summary": "An FDA medical chart review analysis conducted in a Sentinel Data Partner, found the incidence of low-dose oral methotrexate wrong frequency dosing errors to be 0.4%. This resulted in adding the risk of improper dosing to Section 5 (Warnings and Precautions).",
+      "matches": [
+        {
+          "id": "FDA-030",
+          "drug": "Methotrexate (oral)",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-21",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Singulair (montelukast) NDA 021409",
+      "action": "Sentinel webpage",
+      "summary": "Retrospective cohort studies conducted in the Sentinel system informed the re-evaluation of the benefits and risks of montelukast use. Considering the totality of evidence, including the negative Sentinel studies resulted in FDA strengthening existing warnings about serious behavior and mood-related changes with montelukast.",
+      "matches": [
+        {
+          "id": "FDA-046",
+          "drug": "Singulair (montelukast)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-22",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Hydrochlorothiazide (HCTZ)-containing products Multiple NDAs",
+      "action": "Sentinel webpage",
+      "summary": "An FDA conducted retrospective cohort study in the Sentinel System assessed the risk of non-melanoma skin cancer for patients treated with HCTZ-containing products. The study identified an association with an increased risk of non-melanoma skin cancer, predominantly for squamous cell carcinoma and in white patients taking large cumulative doses.",
+      "matches": [
+        {
+          "id": "FDA-031",
+          "drug": "Hydrochlorothiazide-containing products",
+          "basis": "class"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-23",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Feraheme, infed, injectafer, monoferric, venofer (Parenteral Iron Products) Multiple NDAs",
+      "action": "Sentinel webpage",
+      "summary": "An FDA Sentinel analysis characterized the frequency of IV iron utilization relative to live birth and stillbirth deliveries. The finding contributed to a class-wide labeling update for parenteral iron products to add new safety information to Section 8 (Use in Specific Populations, Pregnancy) of the label.",
+      "matches": [
+        {
+          "id": "FDA-032",
+          "drug": "Parenteral iron products",
+          "basis": "class"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-24",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Comtan, Stalevo (Entacapone) NDA 021485/ 20796",
+      "action": "DSC",
+      "summary": "In FDA's review of entacapone, an FDA conducted retrospective cohort study in the Veterans Affairs database found no clear evidence of an increased risk of prostate cancer in patients treated with entacapone versus add-on dopamine agonist or monoamine oxidase inhibitor. This resulted in a DSC.",
+      "matches": [
+        {
+          "id": "FDA-047",
+          "drug": "Comtan/Stalevo (entacapone)",
+          "basis": "application number"
+        },
+        {
+          "id": "FDA-048",
+          "drug": "Comtan/Stalevo (entacapone)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-25",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Pradaxa (dabigatran) NDA 022512",
+      "action": "DSC",
+      "summary": "In FDA's review of dabigatran, an FDA conducted retrospective cohort study among Medicare patients, showed lower risks stroke and death but higher risk for gastrointestinal bleeding with PRADAXA compared to warfarin. FDA still considered Pradaxa to have a favorable benefit/risk profile and made no changes to the labeling.",
+      "matches": [
+        {
+          "id": "FDA-055",
+          "drug": "Pradaxa (dabigatran)",
+          "basis": "application number"
+        },
+        {
+          "id": "FDA-056",
+          "drug": "Pradaxa (dabigatran)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-26",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Enbrel (etanercept) BLA 103795",
+      "action": "Sentinel webpage",
+      "summary": "FDA conducted a drug utilization analysis of TNF alpha inhibitors in pregnant women in the Sentinel System. The study found that among pregnant women with a chronic inflammatory condition, there was a preference to use etanercept compared to other TNF alpha inhibitors.",
+      "matches": [
+        {
+          "id": "FDA-003",
+          "drug": "Enbrel (etanercept)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-27",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Gadolinium-based contrast agents (GBCA) Multiple NDAs",
+      "action": "Sentinel webpage",
+      "summary": "Analyses on gadolinium retention were done with FDA Sentinel data and other data streams. These analyses, in part, resulted in class-wide updates to Section 5 (Warnings and Precautions) to include the risk of gadolinium retention in tissues, including the brain, for months to years.",
+      "matches": [
+        {
+          "id": "FDA-033",
+          "drug": "Gadolinium-based contrast agents (GBCAs)",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-28",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Comtan, Stalevo (entacapone) NDA 021485/ 20796",
+      "action": "DSC",
+      "summary": "FDA conducted a retrospective cohort study in Medicare to assess cardiovascular risk associated with entacapone use. FDA found no clear evidence of increased cardiovascular risk with entacapone. The study resulted in a publication and DSC.",
+      "matches": [
+        {
+          "id": "FDA-047",
+          "drug": "Comtan/Stalevo (entacapone)",
+          "basis": "application number"
+        },
+        {
+          "id": "FDA-048",
+          "drug": "Comtan/Stalevo (entacapone)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-29",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Benicar (olmesartan) NDA 021286",
+      "action": "DSC",
+      "summary": "In FDA's review of Olmesartan, an FDA conducted retrospective cohort study in Medicare found no clear evidence of increased cardiovascular risks associated with high dose use in diabetic patients. As a result, FDA's recommendations for use of olmesartan in patients with diabetes remained the same.",
+      "matches": [
+        {
+          "id": "FDA-034",
+          "drug": "Benicar/Benicar HCT/Azor/Tribenzor (olmesartan)",
+          "basis": "product name"
+        },
+        {
+          "id": "FDA-044",
+          "drug": "Benicar (olmesartan)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-30",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Benicar, Benicar hct (Olmesartan), Azor, Tribenzor (medoxomil) Multiple NDAs",
+      "action": "Sentinel webpage",
+      "summary": "In FDA's review of Olmesartan, an FDA evaluation of the FDA Adverse Event Monitotrin System (AEMS) and the published literature found evidence of an association between olmesartan and sprue-like enteropathy. To evaluate an ARB class association FDA conducted a retrospective cohort study in Mini-Sentinel and Medicare.",
+      "matches": [
+        {
+          "id": "FDA-034",
+          "drug": "Benicar/Benicar HCT/Azor/Tribenzor (olmesartan)",
+          "basis": "product name"
+        },
+        {
+          "id": "FDA-044",
+          "drug": "Benicar (olmesartan)",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-31",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Pradaxa (dabigatran) NDA 022512",
+      "action": "DSC",
+      "summary": "In 2012, an FDA conducted retrospective cohort study in Mini-Sentinel that evaluated new information about the risk of serious bleeding associated with use of dabigatran (PRADAXA) and warfarin. The results indicated that bleeding rates associated with new use of Pradaxa did not appear to be higher than bleeding rates associated with new use of warfarin.",
+      "matches": [
+        {
+          "id": "FDA-055",
+          "drug": "Pradaxa (dabigatran)",
+          "basis": "application number"
+        },
+        {
+          "id": "FDA-056",
+          "drug": "Pradaxa (dabigatran)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-32",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Epogen, Procrit, Aranesp (Erythropoietin stimulating agents (ESA)) BLA 103234 and BLA 103951",
+      "action": "Publication",
+      "summary": "In FDA's review of the effects of a labeling change recommending lower doses of ESAs in dialysis patients, an FDA retrospective cohort study in Medicare which assessed the effects of the changes in reimbursement policy in addition to changes in the ESA's drug labeling found that the risk of MACE and mortality was unchanged, and risk of stroke was reduced following the labeling change.",
+      "matches": [
+        {
+          "id": "FDA-001",
+          "drug": "Epogen/Procrit/Aranesp (ESA)",
+          "basis": "application number"
+        },
+        {
+          "id": "FDA-002",
+          "drug": "Epogen/Procrit/Aranesp (ESA)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-33",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Avandia (rosiglitazone) NDA 021071",
+      "action": "DSC",
+      "summary": "FDA conducted a retrospective cohort study in Medicare that evaluated the risk of heart attacks in patients taking rosiglitazone. The study resulted in labeling changes and an update to the Risk Evaluation and Mitigation Strategy (REMS) to include a restricted access and distribution program.",
+      "matches": [
+        {
+          "id": "FDA-042",
+          "drug": "Avandia (rosiglitazone)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-34",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Imitrex (sumatriptan), Treximet® (sumatriptan and naproxen sodium) NDA 020626/ 020080/ 020132/ 021926/",
+      "action": "Labeling",
+      "summary": "The Sumatriptan/Naratriptan/Treximet Pregnancy Registry collected data on fetal malformations and birth defects from in-utero exposure to sumatriptan (January 1996 to September 2012). Section 8 of the label was updated to reflect that data from the prospective pregnancy exposure registry and other epidemiological studies did not show an increased frequency of birth defects.",
+      "matches": [
+        {
+          "id": "FDA-035",
+          "drug": "Imitrex/Treximet (sumatriptan combinations)",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-35",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Amerge (naratriptan) NDA 020763",
+      "action": "Labeling",
+      "summary": "The Sumatriptan/Naratriptan/Treximet Pregnancy Registry collected data on adverse fetal outcomes from in utero exposure to naratriptan. Section 8 of the AMERGE labeling was updated to reflect that no definitive conclusions could be drawn from the registry and epidemiological studies regarding the risk of birth defects.",
+      "matches": [
+        {
+          "id": "FDA-041",
+          "drug": "Amerge (naratriptan)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-36",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Proton pump inhibitors (PPI) Multiple NDAs",
+      "action": "N/A",
+      "summary": "In FDA's review of drugs repurposed for treating patients with COVID-19 or drugs being taken by patients with COVID-19, there was concern that PPI use might increase the risk of developing severe COVID-19. An FDA conducted case control study in Medicare found that PPIs were not associated with increased risk uncomplicated or complicated COVID-19 hospitalizations.",
+      "matches": [
+        {
+          "id": "FDA-036",
+          "drug": "Proton pump inhibitors (PPI)",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-37",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Angiotensin-converting enzyme (ACE) Inhibitors (multiple) and angiotensin receptor blockers (ARB) (multiple) Multiple NDAs",
+      "action": "Publication",
+      "summary": "In FDA's review of ACE inhibitors (ACEi) or Angiotensin II Receptor Blockers (ARBs) an FDA conducted case-control study in Medicare evaluated the effect of ACE inhibitors or ARBs on the risk of developing severe COVID-19 and found that use of these drugs was not associated with increased risk of hospitalized COVID-19 or COVID-19-related mortality.",
+      "matches": [
+        {
+          "id": "FDA-037",
+          "drug": "ACE inhibitors/ARBs (class)",
+          "basis": "class"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-38",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "EPOGEN, PROCRIT, ARANESP (Erythropoietin stimulating agents (ESA)) BLA 103234 and 103951",
+      "action": "Publication",
+      "summary": "FDA reviewed the effect of the REMS (Erythropoietin stimulating agents (ESA) use for chemotherapy-induced anemia, during and after the discontinuation of the REMS, and conducted a retrospective cohort study in Medicare that showed that the REMS had minimal impact on ESA use or transfusion rates and that the removal of the REMS did not affect subsequent ESA use or blood transfusions.",
+      "matches": [
+        {
+          "id": "FDA-001",
+          "drug": "Epogen/Procrit/Aranesp (ESA)",
+          "basis": "application number"
+        },
+        {
+          "id": "FDA-002",
+          "drug": "Epogen/Procrit/Aranesp (ESA)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-39",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "LYBREL (ethinyl estradiol; levonorgestrel) NDA 021864",
+      "action": "Publication",
+      "summary": "An FDA conducted retrospective cohort study evaluated the risk of venous thromboembolism (VTE) for extended cycle contraceptives to determine whether these posed a greater risk of VTE due to increased hormone exposure, compared to 28-day products. The study provided reassurance that VTE risk was not substantially different.",
+      "matches": [
+        {
+          "id": "FDA-050",
+          "drug": "LYBREL (ethinyl estradiol/levonorgestrel)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-40",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Fragmin (Dalteparin Sodium) NDA 20287",
+      "action": "Labeling",
+      "summary": "PMC 3629-1: To characterize safety of dalteparin treatment in neonates (defined as 0 to 28 days of age; gestational age at least 35 weeks) with venous thromboembolism (VTE), conduct a non-interventional, retrospective medical record review study to describe the safety, dosing, pharmacodynamics, and efficacy using real-world evidence in at least 12 neonates receiving dalteparin. Submit the final report, case report forms, and datasets.",
+      "matches": [
+        {
+          "id": "FDA-040",
+          "drug": "Fragmin (dalteparin)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-41",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Mircera (Methoxy Polyethylene Glycol-Epoetin Beta) BLA 125164",
+      "action": "Labeling",
+      "summary": "PMR 3385-2: Submit a summary report and registry data that describes the dosing, aggregate level safety data and hemoglobin concentrations in a cohort of pediatric patients with anemia associated with chronic kidney disease treated with US-licensed Mircera. The cohort will include pediatric patients from 3 months to less than 18 years of age, on peritoneal dialysis or hemodialysis, and subcutaneous or intravenous route of administration. The sample size for the cohort will be a minimum of 125 pa",
+      "matches": [
+        {
+          "id": "FDA-009",
+          "drug": "Mircera (methoxy polyethylene glycol-epoetin beta)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-42",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Entyvio (Vedolizumab) BLA 125476",
+      "action": "Labeling",
+      "summary": "PMC 2719-7: Conduct a prospective, observational pregnancy exposure registry study in the United States that compares the pregnancy and fetal outcomes of women exposed to Entyvio (vedolizumab) during pregnancy to an unexposed control population or collect Entyvio (vedolizumab) pregnancy exposure data by collaborating with an existing disease-based pregnancy registry.",
+      "matches": [
+        {
+          "id": "FDA-013",
+          "drug": "Entyvio (vedolizumab)",
+          "basis": "application number"
+        },
+        {
+          "id": "FDA-023",
+          "drug": "Entyvio (vedolizumab)",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-43",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Zithromax (Azithromycin) NDA 50784; NDA 50670; NDA 50693; NDA 50710; NDA 50711; NDA 50730; NDA 50733; NDA 50797",
+      "action": "Labeling",
+      "summary": "PMR 2130-1: An observational study of the association of azithromycin use with cardiovascular death, compared to amoxicillin or other antibacterial drugs, in one or more study population(s) with sufficient representation of cardiovascular disease and cardiovascular risk factors. The goal is to replicate the analysis conducted in the Ray et al. study published in 2012 in a different population, and to elucidate the risk and potential risk factors for azithromycin-associated cardiovascular death.",
+      "matches": [
+        {
+          "id": "FDA-038",
+          "drug": "Zithromax (azithromycin)",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-44",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Mirena (Levonorgestrel-Releasing Intrauterine System) NDA 21225",
+      "action": "Labeling",
+      "summary": "Labeling updated to include the risks of perforation and expulsion, and information on timing of insertion to the following sub-sections: Dosage and Administration (2.2), Warnings and Precautions (5.6,5.7), Postmarketing Experience (6.2), and Patient Information.",
+      "matches": [
+        {
+          "id": "FDA-043",
+          "drug": "Mirena (levonorgestrel IUS)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-45",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "OxyContin (Oxycodone Hydrochloride) NDA 22272",
+      "action": "NA",
+      "summary": "PMR 2923-2: Conduct a nationally representative drug utilization study of sufficient detail to characterize use of OxyContin in children aged 17 years and younger. The data from this study will provide a denominator for the risks assessed in PMR #2923-1 and any future safety studies and clinical trials used to assess those risks. The following analyses should be conducted with the data collected: 1) Total number of prescriptions dispensed across all settings of care a. stratify by age group (0-1",
+      "matches": [
+        {
+          "id": "FDA-054",
+          "drug": "OxyContin (oxycodone ER)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-46",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Truvada (Emtricitabine and Tenofovir Disoproxil Fumarate) NDA 21752",
+      "action": "Labeling",
+      "summary": "PMR 1906-1: Through collaboration with the Antiretroviral Pregnancy Registry, conduct a prospective observational study to collect and analyze data on maternal and fetal outcomes in 200 women who become pregnant while taking Truvada® for a pre-exposure prophylaxis (PrEP) indication and choose to continue Truvada during their pregnancies and in 200 women who become pregnant while taking Truvada for PrEP and choose to discontinue it. Collect and analyze data from at least a similarly sized compara",
+      "matches": [
+        {
+          "id": "FDA-049",
+          "drug": "Truvada (emtricitabine/tenofovir DF)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-47",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Jadenu (Deferasirox) NDA 206910",
+      "action": "Labeling",
+      "summary": "PMR 2888-1: Establish a registry for children aged 2 to < 6 years to enroll approximately 200 patients receiving deferasirox and follow them for 5 years. Collect data at least monthly for renal function and blood pressure and yearly for growth and development and analyze the data for adverse renal reactions and delayed growth and development",
+      "matches": [
+        {
+          "id": "FDA-059",
+          "drug": "Jadenu (deferasirox)",
+          "basis": "application number"
+        },
+        {
+          "id": "FDA-061",
+          "drug": "Jadenu Sprinkle (deferasirox)",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cder-postmarketing-48",
+      "table": "CDER postmarketing studies",
+      "table_id": "cder-postmarketing",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cder-postmarketing-studies-used-real-world-evidence",
+      "product": "Jadenu Sprinkle (Deferasirox) NDA 207968",
+      "action": "Labeling",
+      "summary": "PMR 3342-1: Establish a registry for children aged 2 to < 6 years to enroll approximately 200 patients receiving deferasirox and follow them for 5 years. Collect data at least monthly for renal function and blood pressure and yearly for growth and development and analyze the data for adverse renal reactions and delayed growth and development.",
+      "matches": [
+        {
+          "id": "FDA-059",
+          "drug": "Jadenu (deferasirox)",
+          "basis": "product name"
+        },
+        {
+          "id": "FDA-061",
+          "drug": "Jadenu Sprinkle (deferasirox)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cber-safety-01",
+      "table": "CBER safety labeling",
+      "table_id": "cber-safety",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted",
+      "product": "FluBlok (Influenza Vaccine) BLA 125285",
+      "action": "Flublok",
+      "summary": "Post-licensure observational, retrospective safety surveillance study of 14,981 pregnant individuals. It found no increased risk of birth defects or miscarriages from Flublok Quadrivalent, leading to updated prescribing information.",
+      "matches": [
+        {
+          "id": "FDA-EX-cber-safety-01",
+          "drug": "FluBlok (Influenza Vaccine)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cber-safety-02",
+      "table": "CBER safety labeling",
+      "table_id": "cber-safety",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted",
+      "product": "Comirnaty, Spikevax, MNEXSPIKE (mRNA COVID-19 vaccines) BLA 125742 BLA 125752 BLA 125835",
+      "action": "FDA Approves Required Updated Warning in Labeling of mRNA COVID-19 Vaccines Regarding Myocarditis and Pericarditis Following Vaccination",
+      "summary": "Two FDA-funded postmarket retrospective cohort studies using medical claims and the MACiV (Myocarditis After COVID-19 Vaccination) study contributed to updates to the prescribing information for COVID-19 vaccines to include new safety information about the risks of myocarditis and pericarditis following vaccination.",
+      "matches": [
+        {
+          "id": "FDA-016",
+          "drug": "mRNA COVID-19 vaccines (Comirnaty/Spikevax)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cber-safety-03",
+      "table": "CBER safety labeling",
+      "table_id": "cber-safety",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted",
+      "product": "Abrysvo and Arexvy(RSV vaccines) BLA 125769 & BLA 125768 BLA 125775",
+      "action": "FDA Requires Guillain-Barré Syndrome (GBS) Warning in the Prescribing Information for RSV Vaccines Abrysvo and Arexvy",
+      "summary": "An FDA funded postmarketing study using a self-controlled case series analysis in the CBER Best System contributed to safety labeling changes to the Prescribing Information for Respiratory Syncytial Virus (RSV) vaccines on a suggested increased risk of Guillain-Barré syndrome (GBS) during the 42 days following vaccination.",
+      "matches": [
+        {
+          "id": "FDA-019",
+          "drug": "RSV vaccines (Abrysvo/Arexvy)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cber-safety-04",
+      "table": "CBER safety labeling",
+      "table_id": "cber-safety",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted",
+      "product": "Hydroxyethyl starch (HES) products (various products) Multiple BLAs",
+      "action": "Labeling Changes on mortality, kidney injury, and excess bleeding with hydroxyethyl starch products",
+      "summary": "Postmarketing observational studies (non-FDA funded), combined with evidence from a RCT and a meta-analysis led to labeling changes.",
+      "matches": [
+        {
+          "id": "FDA-026",
+          "drug": "Hydroxyethyl starch products",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cber-safety-05",
+      "table": "CBER safety labeling",
+      "table_id": "cber-safety",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted",
+      "product": "SHINGRIX (Herpes Zoster Vaccine) BLA 125614",
+      "action": "FDA Requires a Warning about Guillain-Barré Syndrome (GBS) be Included in the Prescribing Information for Shingrix",
+      "summary": "An FDA funded postmarket cohort study with self-controlled case series analyses using medical claims contributed to safety labeling changes to the Prescribing Information for Shingrix to include a new warning about the risk for Guillain-Barré Syndrome (GBS) following administration.",
+      "matches": [
+        {
+          "id": "FDA-015",
+          "drug": "Shingrix (herpes zoster vaccine)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cber-safety-06",
+      "table": "CBER safety labeling",
+      "table_id": "cber-safety",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted",
+      "product": "Fluzone, TIV (Influenza Vaccine) BLA 103914",
+      "action": "FDA Postlicensure Rapid Immunization Safety Monitoring (PRISM) Study Demonstrates No Statistically Significant Association between Trivalent Inactivated Influenza Vaccine and Febrile Seizures in Children during the 2010-2011 Influenza Seaso",
+      "summary": "During the 2010-2011 influenza season, an increased number of reports of febrile seizures following vaccination with Fluzone were received into the Vaccine Adverse Event Reporting System (VAERS). A Sentinel assessment using a self-controlled risk interval design found no statistically significant association with febrile seizures and provided reassurance of safety.",
+      "matches": [
+        {
+          "id": "FDA-004",
+          "drug": "Fluzone (influenza vaccine)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cber-safety-07",
+      "table": "CBER safety labeling",
+      "table_id": "cber-safety",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted",
+      "product": "RotaTeq (Rotavirus Vaccine )<br>BLA 125122",
+      "action": "FDA Releases Final Study Results of a Mini-Sentinel Postlicensure Observational Study of Rotavirus Vaccines and Intussusception",
+      "summary": "An FDA funded post market cohort study in the Mini-Sentinel PRISM initiative led to revisions to the Prescribing Information and Patient Information for RotaTeq as a result of the new safety data. New information was added to the label Highlights, the existing intussusception subsection of Section 5 (Warnings and Precautions), Section 6 (Post-Marketing Experience), and Section 17 (Patient Counseling Information).",
+      "matches": [
+        {
+          "id": "FDA-008",
+          "drug": "RotaTeq (rotavirus vaccine)",
+          "basis": "application number"
+        }
+      ]
+    },
+    {
+      "id": "cber-safety-08",
+      "table": "CBER safety labeling",
+      "table_id": "cber-safety",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted",
+      "product": "Human immune globulin products (various products, Immune Globulins)<br>Multiple BLAs",
+      "action": "FDA Safety Communication: New boxed warning for thrombosis related to human immune globulin products",
+      "summary": "An FDA funded postmarket retrospective cohort study using medical claims as well as adverse event reports contributed to the decision to add information on thrombosis to the boxed warning in the labels of all intravenous human immune globulin products and to add a boxed warning to the labels of all subcutaneous and intramuscular human immune globulin products.",
+      "matches": [
+        {
+          "id": "FDA-027",
+          "drug": "Immune globulin products (IV/SC/IM)",
+          "basis": "product name"
+        }
+      ]
+    },
+    {
+      "id": "cber-safety-09",
+      "table": "CBER safety labeling",
+      "table_id": "cber-safety",
+      "url": "https://www.fda.gov/science-research/real-world-evidence/cber-labeling-changes-related-safety-findings-used-real-world-evidence-fda-and-sponsor-conducted",
+      "product": "Rotarix (Rotavirus Vaccine) BLA 125265",
+      "action": "September 17, 2010 Approval Letter - Rotarix",
+      "summary": "A postmarket safety study (hospital-based active surveillance study) using self-controlled case series analysis was conducted by the sponsor in Mexico. The study examined intussusception following Rotarix administration. Study findings led to safety labeling changes stating that cases of intussusception were observed in temporal association within 31 days following the first dose of ROTARIX, with a clustering of cases in the first 7 days.",
+      "matches": [
+        {
+          "id": "FDA-010",
+          "drug": "Rotarix (rotavirus vaccine)",
+          "basis": "application number"
+        }
+      ]
+    }
+  ],
+  "fda_only": [],
+  "corpus_only": [
+    {
+      "id": "FDA-005",
+      "drug": "Fabrazyme",
+      "application": "BLA 103979",
+      "year": "2021",
+      "decision": "Other (PMR/PMC, policy evaluation)",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-006",
+      "drug": "Erbitux (Cetuximab)",
+      "application": "BLA 125084",
+      "year": "2021",
+      "decision": "No RWE content identified",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-014",
+      "drug": "Inflectra (CT-P13)",
+      "application": "BLA 125544",
+      "year": "2016",
+      "decision": "Effectiveness: supportive or contextual",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-017",
+      "drug": "Skysona (elivaldogene autotemcel)",
+      "application": "BLA 125755",
+      "year": "2022",
+      "decision": "Effectiveness: pivotal or substantial evidence",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-018",
+      "drug": "Lenmeldy (atidarsagene autotemcel)",
+      "application": "BLA 125758",
+      "year": "2024",
+      "decision": "Effectiveness: pivotal or substantial evidence",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-020",
+      "drug": "Lumoxiti (Moxetumomab pasudotox)",
+      "application": "BLA 761104",
+      "year": "2018",
+      "decision": "Effectiveness: supportive or contextual",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-021",
+      "drug": "Isatuximab (Sarclisa)",
+      "application": "BLA 761113",
+      "year": "2020",
+      "decision": "Effectiveness: supportive or contextual",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-022",
+      "drug": "Monjuvi (Tafasitamab)",
+      "application": "BLA 761163",
+      "year": "2020",
+      "decision": "Effectiveness: supportive or contextual",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-024",
+      "drug": "CAR T cell immunotherapies (BCMA/CD19)",
+      "application": "Multiple BLAs",
+      "year": "2024",
+      "decision": "Safety, labelling or REMS action",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-025",
+      "drug": "Allergenic extracts for food allergy diagnosis",
+      "application": "Multiple BLAs",
+      "year": "2023",
+      "decision": "Safety, labelling or REMS action",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-045",
+      "drug": "SPIRIVA (Tiotropium)",
+      "application": "NDA 021395",
+      "year": "2009",
+      "decision": "No RWE content identified",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-051",
+      "drug": "Accutane",
+      "application": "NDA 021951",
+      "year": "2012",
+      "decision": "No RWE content identified",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-052",
+      "drug": "Januvia (sitagliptin)",
+      "application": "NDA 021995",
+      "year": "2018",
+      "decision": "Safety, labelling or REMS action",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-058",
+      "drug": "Stivarga (Regorafenib)",
+      "application": "NDA 203085",
+      "year": "2019",
+      "decision": "No RWE content identified",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-060",
+      "drug": "IBRANCE (Palbociclib)",
+      "application": "NDA 207103",
+      "year": "2019",
+      "decision": "Effectiveness: supportive or contextual",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-062",
+      "drug": "Erdafitinib (Balversa)",
+      "application": "NDA 212018",
+      "year": "2019",
+      "decision": "Effectiveness: supportive or contextual",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-063",
+      "drug": "Entrectinib",
+      "application": "NDA 212725",
+      "year": "2019",
+      "decision": "Other (PMR/PMC, policy evaluation)",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-064",
+      "drug": "Tazemetostat (Tazverik)",
+      "application": "NDA 213400",
+      "year": "2020",
+      "decision": "Effectiveness: supportive or contextual",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-065",
+      "drug": "Capmatinib (Tabrecta)",
+      "application": "NDA 213591",
+      "year": "2020",
+      "decision": "Other (PMR/PMC, policy evaluation)",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-067",
+      "drug": "Infigratinib (Truseltiq)",
+      "application": "NDA 214622",
+      "year": "2021",
+      "decision": "Effectiveness: supportive or contextual",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-068",
+      "drug": "Lumakras (Sotorasib)",
+      "application": "NDA 214665",
+      "year": "2021",
+      "decision": "Effectiveness: supportive or contextual",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-071",
+      "drug": "Elamipretide",
+      "application": "NDA 215244",
+      "year": "2025",
+      "decision": "No RWE content identified",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-072",
+      "drug": "Mobocertinib (Exkivity)",
+      "application": "NDA 215310",
+      "year": "2021",
+      "decision": "Other (PMR/PMC, policy evaluation)",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-073",
+      "drug": "Eflornithine/DFMO (Iwilfin)",
+      "application": "NDA 215500",
+      "year": "2024",
+      "decision": "Effectiveness: supportive or contextual",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-074",
+      "drug": "Omaveloxolone (Skyclarys)",
+      "application": "NDA 216718",
+      "year": "2023",
+      "decision": "Other (PMR/PMC, policy evaluation)",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-075",
+      "drug": "Givinostat (Duvyzat)",
+      "application": "NDA 217865",
+      "year": "2024",
+      "decision": "Safety, labelling or REMS action",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-077",
+      "drug": "Danicopan",
+      "application": "NDA 218037",
+      "year": "2024",
+      "decision": "No RWE content identified",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-078",
+      "drug": "Boostrix (Tdap)",
+      "application": "sBLA 125106/1469",
+      "year": "2022",
+      "decision": "Effectiveness: supportive or contextual",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-079",
+      "drug": "Adacel (Tdap)",
+      "application": "sBLA 125111/904",
+      "year": "2023",
+      "decision": "Effectiveness: supportive or contextual",
+      "origin": "january-2026-curated"
+    },
+    {
+      "id": "FDA-2026-NDA218592",
+      "drug": "Pixclara",
+      "application": "NDA218592",
+      "year": "2026",
+      "decision": "Safety, labelling or REMS action",
+      "origin": "october-2026-screen"
+    },
+    {
+      "id": "FDA-2026-NDA220210",
+      "drug": "Zanvastro",
+      "application": "NDA220210",
+      "year": "2026",
+      "decision": "Other (PMR/PMC, policy evaluation)",
+      "origin": "october-2026-screen"
+    },
+    {
+      "id": "FDA-2026-NDA220910",
+      "drug": "Rasonque",
+      "application": "NDA220910",
+      "year": "2026",
+      "decision": "Other (PMR/PMC, policy evaluation)",
+      "origin": "october-2026-screen"
+    },
+    {
+      "id": "FDA-2026-BLA761320",
+      "drug": "Lytenava",
+      "application": "BLA761320",
+      "year": "2026",
+      "decision": "Other (PMR/PMC, policy evaluation)",
+      "origin": "october-2026-screen"
+    },
+    {
+      "id": "FDA-2026-NDA219908",
+      "drug": "Revtorpyk",
+      "application": "NDA219908",
+      "year": "2026",
+      "decision": "Safety, labelling or REMS action",
+      "origin": "october-2026-screen"
+    },
+    {
+      "id": "FDA-2026-BLA761468",
+      "drug": "Hepcludex",
+      "application": "BLA761468",
+      "year": "2026",
+      "decision": "Effectiveness: supportive or contextual",
+      "origin": "october-2026-screen"
+    },
+    {
+      "id": "FDA-2026-NDA220711",
+      "drug": "Beqalzi",
+      "application": "NDA220711",
+      "year": "2026",
+      "decision": "Other (PMR/PMC, policy evaluation)",
+      "origin": "october-2026-screen"
+    },
+    {
+      "id": "FDA-2026-BLA761485",
+      "drug": "Avlayah",
+      "application": "BLA761485",
+      "year": "2026",
+      "decision": "Other (PMR/PMC, policy evaluation)",
+      "origin": "october-2026-screen"
+    },
+    {
+      "id": "FDA-2026-NDA219164",
+      "drug": "Yuviwel",
+      "application": "NDA219164",
+      "year": "2026",
+      "decision": "Other (PMR/PMC, policy evaluation)",
+      "origin": "october-2026-screen"
+    },
+    {
+      "id": "FDA-2026-BLA761211",
+      "drug": "Loargys",
+      "application": "BLA761211",
+      "year": "2026",
+      "decision": "Other (PMR/PMC, policy evaluation)",
+      "origin": "october-2026-screen"
+    },
+    {
+      "id": "FDA-2026-NDA211241",
+      "drug": "Zycubo",
+      "application": "NDA211241",
+      "year": "2026",
+      "decision": "Safety, labelling or REMS action",
+      "origin": "october-2026-screen"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+openapi: 3.1.0
+info:
+  title: Reg4RWE
+  version: "1.0.0"
+  description: >
+    Appraise a real-world evidence study against public FDA and EMA feedback.
+    The response lists the closest precedents and the feedback those regulators recorded.
+servers:
+  - url: https://reg4rwe.vercel.app
+paths:
+  /api/appraise:
+    post:
+      operationId: appraiseRweDesign
+      summary: Appraise a real-world evidence design
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required: [design]
+              properties:
+                design:
+                  type: string
+                  description: >
+                    The study or design: question, population, data source,
+                    comparator, and the decision the evidence is meant to support.
+      responses:
+        "200":
+          description: Precedent and regulator feedback
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  appraisal:
+                    type: string

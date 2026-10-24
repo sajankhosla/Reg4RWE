@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reg4RWE</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="identity">
+      <p class="eyebrow">Public FDA reviews and EMA assessment reports</p>
+      <h1>Reg4RWE</h1>
+      <p class="lede" id="lede"></p>
+    </div>
+    <form id="search-form" role="search">
+      <label for="q">Search the feedback</label>
+      <input id="q" name="q" type="search" autocomplete="off" placeholder="Drug, data source, critique, quote">
+    </form>
+  </header>
+  <nav id="layers" class="layers" aria-label="Layers of evidence"></nav>
+  <div id="filters" class="filters"></div>
+  <main id="main"></main>
+  <script src="app.js?v=5"></script>
+</body>
+</html>
