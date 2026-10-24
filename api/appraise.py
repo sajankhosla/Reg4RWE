@@ -42,5 +42,6 @@ class handler(BaseHTTPRequestHandler):
             self._send(400, {"error": "Send a JSON object with a design field."})
             return
         text = appraise(str(design))
-        log_appraisal("http", str(design), text)
+        logged = log_appraisal("http", str(design), text)
+        self.log_message("usage %s", logged)
         self._send(200, {"appraisal": text})

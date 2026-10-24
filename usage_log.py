@@ -47,18 +47,19 @@ def make_event(source: str, design: str, appraisal: str) -> dict:
     }
 
 
-def log_appraisal(source: str, design: str, appraisal: str) -> None:
+def log_appraisal(source: str, design: str, appraisal: str) -> str:
     """Record one appraisal. Failures are ignored so the appraisal still returns."""
     try:
         event = make_event(source, design, appraisal)
         _append_local(event)
         if source == "http":
-            _store_blob(event)
-            print(json.dumps({"reg4rwe_usage": event}), flush=True)
-        else:
-            _post_ingest(event)
-    except Exception:
-        return
+            stored = _store_blob(event)
+            print(json.dumps({"reg4rwe_usage": {"id": event["id"], "source": source, "outcome": event["outcome"]}}), flush=True)
+            return stored
+        _post_ingest(event)
+        return "sent"
+    except Exception as error:
+        return f"error:{error}"
 
 
 def _append_local(event: dict) -> None:
@@ -98,11 +99,11 @@ def _auth_headers() -> dict[str, str] | None:
     }
 
 
-def _store_blob(event: dict) -> bool:
+def _store_blob(event: dict) -> str:
     headers = _auth_headers()
     if not headers:
         print(json.dumps({"reg4rwe_usage_store": "no-credentials"}), flush=True)
-        return False
+        return "no-credentials"
     pathname = f"{BLOB_PREFIX}{event['at']}-{event['id']}.json"
     url = f"{BLOB_API}/?pathname={parse.quote(pathname)}"
     req = request.Request(
@@ -119,14 +120,14 @@ def _store_blob(event: dict) -> bool:
     try:
         with request.urlopen(req, timeout=8) as response:
             response.read()
-        return True
+        return "stored"
     except error.HTTPError as http_error:
         detail = http_error.read(300).decode("utf-8", "replace")
         print(json.dumps({"reg4rwe_usage_store": http_error.code, "detail": detail[:300]}), flush=True)
-        return False
+        return f"http-{http_error.code}"
     except error.URLError as url_error:
         print(json.dumps({"reg4rwe_usage_store": str(url_error.reason)}), flush=True)
-        return False
+        return "network"
 
 
 def _list_blob_urls(limit: int) -> list[str]:
@@ -193,5 +194,5 @@ def store_incoming(event: dict) -> bool:
         "precedents": [str(item)[:200] for item in (event.get("precedents") or [])[:8]],
     }
     _store_blob(clean)
-    print(json.dumps({"reg4rwe_usage": clean}), flush=True)
+    print(json.dumps({"reg4rwe_usage": {"id": clean["id"], "source": clean["source"], "outcome": clean["outcome"]}}), flush=True)
     return True
