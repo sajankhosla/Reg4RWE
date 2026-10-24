@@ -117,6 +117,7 @@ def _store_blob(event: dict) -> str:
         headers={
             **headers,
             "x-content-type": "application/json",
+            "x-vercel-blob-access": "private",
             "x-add-random-suffix": "0",
             "x-allow-overwrite": "1",
         },
