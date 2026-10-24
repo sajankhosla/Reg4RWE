@@ -31,16 +31,16 @@
           "id": "supportive",
           "label": "Effectiveness: supportive or contextual",
           "lesson": "Real-world evidence was used to interpret a trial, describe the disease, or support a subset. The decision did not rest on it alone, and the critique is often about whether the comparison was fair.",
-          "count": 34,
-          "fda": 22,
+          "count": 32,
+          "fda": 20,
           "ema": 12
         },
         {
           "id": "safety",
           "label": "Safety, labelling or REMS action",
           "lesson": "This is the largest FDA group. A study informed a label, a warning, or a REMS. The extraction usually records the action and the data source. A methods critique was often not written down.",
-          "count": 64,
-          "fda": 58,
+          "count": 66,
+          "fda": 60,
           "ema": 6
         },
         {
@@ -2900,8 +2900,8 @@
       "quote": "Establish a registry for children aged 2 to < 6 years... follow them for 5 years",
       "summary": "Registry data supported pediatric safety and conversion",
       "confidence": "0.4",
-      "decision_id": "supportive",
-      "decision": "Effectiveness: supportive or contextual",
+      "decision_id": "safety",
+      "decision": "Safety, labelling or REMS action",
       "question_id": "safety",
       "question": "Post-approval safety and labelling",
       "settings": [
@@ -2990,8 +2990,8 @@
       "quote": "Establish a registry for children aged 2 to < 6 years... follow them for 5 years",
       "summary": "Registry data supported pediatric safety and conversion",
       "confidence": "0.4",
-      "decision_id": "supportive",
-      "decision": "Effectiveness: supportive or contextual",
+      "decision_id": "safety",
+      "decision": "Safety, labelling or REMS action",
       "question_id": "safety",
       "question": "Post-approval safety and labelling",
       "settings": [
