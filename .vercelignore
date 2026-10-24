@@ -1,5 +1,6 @@
 data/cache
 data/locate.log
+data/usage.jsonl
 .git
 .vercel
 __pycache__

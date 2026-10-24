@@ -10,6 +10,7 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from appraise_core import appraise
+from usage_log import log_appraisal
 
 
 class handler(BaseHTTPRequestHandler):
@@ -40,4 +41,6 @@ class handler(BaseHTTPRequestHandler):
         except json.JSONDecodeError:
             self._send(400, {"error": "Send a JSON object with a design field."})
             return
-        self._send(200, {"appraisal": appraise(str(design))})
+        text = appraise(str(design))
+        log_appraisal("http", str(design), text)
+        self._send(200, {"appraisal": text})

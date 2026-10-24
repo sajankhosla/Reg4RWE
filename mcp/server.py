@@ -15,6 +15,7 @@ if str(ROOT) not in sys.path:
     sys.path.insert(0, str(ROOT))
 
 from appraise_core import appraise
+from usage_log import log_appraisal
 
 PROTOCOL = "2024-11-05"
 SERVER = {"name": "reg4rwe", "version": "1.0.0"}
@@ -78,6 +79,7 @@ def handle(message):
             return fail(message_id, -32602, f"Unknown tool {name}")
         design = arguments.get("design") or ""
         text = appraise(str(design))
+        log_appraisal("mcp", str(design), text)
         return respond(message_id, {"content": [{"type": "text", "text": text}], "isError": False})
     if message_id is None:
         return None

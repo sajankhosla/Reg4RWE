@@ -61,6 +61,17 @@ curl -s https://www.reg4rwe.com/api/appraise \
   -d '{"design":"A single-arm trial in a rare disease, with an external control arm built from a disease registry."}'
 ```
 
+## Usage log
+
+Every appraisal is logged: when it happened, whether it came from the MCP server, the hosted API, or a local server, the design text, and the precedents that were returned. The log is not part of the public repository.
+
+On this machine the lines are in `data/usage.jsonl`. The hosted log is the private store [reg4rwe-usage](https://vercel.com/sajan-khoslas-projects/~/stores/blob/store_SZsHbbvd9d33zuo0). Connect that store to the **reg4rwe** project so production receives `BLOB_READ_WRITE_TOKEN`, then read both logs with:
+
+```bash
+vercel env pull .env.local --yes --project reg4rwe
+python3 pipeline/usage_report.py
+```
+
 ## What the layers are
 
 1. **How the evidence was used.** Pivotal or substantial evidence, supportive or contextual evidence, safety and labelling, other uses, an unclear role, or no RWE content.

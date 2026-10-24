@@ -10,6 +10,7 @@ WEB = ROOT / "web"
 CORPUS = ROOT / "data" / "corpus.json"
 
 from appraise_core import appraise
+from usage_log import log_appraisal
 
 
 class Handler(SimpleHTTPRequestHandler):
@@ -51,6 +52,7 @@ class Handler(SimpleHTTPRequestHandler):
             payload = json.loads(raw.decode("utf-8") or "{}")
             design = payload.get("design") or payload.get("study") or ""
             text = appraise(str(design))
+            log_appraisal("local", str(design), text)
             body = json.dumps({"appraisal": text}).encode("utf-8")
             status = 200
         except Exception as error:
