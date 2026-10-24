@@ -6,7 +6,7 @@ Some records still need a line-by-line check. Those are marked **Needs manual re
 
 ## Open the app
 
-The hosted app is at [https://reg4rwe.vercel.app](https://reg4rwe.vercel.app).
+The hosted app is at [https://www.reg4rwe.com](https://www.reg4rwe.com). [reg4rwe.com](https://reg4rwe.com) redirects there.
 
 To run it locally:
 
@@ -51,12 +51,12 @@ The same block works in Claude Desktop (`claude_desktop_config.json`), Claude Co
 
 ### ChatGPT
 
-In a custom GPT, add an action from `mcp/openapi.yaml`. The action posts the design to `https://reg4rwe.vercel.app/api/appraise`. In ChatGPT developer mode, you can instead attach the MCP server above. Ask it to appraise the study. The reply should list precedents and the feedback the regulators recorded.
+In a custom GPT, add an action from `mcp/openapi.yaml`. The action posts the design to `https://www.reg4rwe.com/api/appraise`. In ChatGPT developer mode, you can instead attach the MCP server above. Ask it to appraise the study. The reply should list precedents and the feedback the regulators recorded.
 
 The same POST works for any client that can call an HTTP endpoint:
 
 ```bash
-curl -s https://reg4rwe.vercel.app/api/appraise \
+curl -s https://www.reg4rwe.com/api/appraise \
   -H "Content-Type: application/json" \
   -d '{"design":"A single-arm trial in a rare disease, with an external control arm built from a disease registry."}'
 ```

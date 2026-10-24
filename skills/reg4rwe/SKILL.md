@@ -14,7 +14,7 @@ Use this skill when the user wants their study or design held up against regulat
 ## How to get the precedents
 
 1. If the `appraise_rwe_design` tool is available, call it with the user's design in `design`. Use its text as the precedent section. Do not replace the quoted regulator wording.
-2. If the tool is not connected, POST JSON `{"design":"..."}` to `https://reg4rwe.vercel.app/api/appraise` and use the `appraisal` field the same way.
+2. If the tool is not connected, POST JSON `{"design":"..."}` to `https://www.reg4rwe.com/api/appraise` and use the `appraisal` field the same way.
 3. If that host is unreachable, say so and stop. Do not appraise from memory.
 
 ## What to return

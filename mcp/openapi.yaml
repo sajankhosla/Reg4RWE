@@ -6,7 +6,7 @@ info:
     Appraise a real-world evidence study against public FDA and EMA feedback.
     The response lists the closest precedents and the feedback those regulators recorded.
 servers:
-  - url: https://reg4rwe.vercel.app
+  - url: https://www.reg4rwe.com
 paths:
   /api/appraise:
     post:
