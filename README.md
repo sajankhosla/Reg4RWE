@@ -65,7 +65,7 @@ curl -s https://www.reg4rwe.com/api/appraise \
 
 Every appraisal is logged: when it happened, whether it came from the MCP server, the hosted API, or a local server, the design text, and the precedents that were returned. The log is not part of the public repository.
 
-The dashboard is at [www.reg4rwe.com/logs](https://www.reg4rwe.com/logs). It asks for the `USAGE_READ_TOKEN` kept in the project environment. Locally, `python3 serve.py` and http://127.0.0.1:8765/logs read the same log without that token.
+The dashboard at [www.reg4rwe.com/logs](https://www.reg4rwe.com/logs) reads the private Vercel usage store. It asks for the `USAGE_READ_TOKEN` kept in the project environment. Locally, `python3 serve.py` and http://127.0.0.1:8765/logs read that same store.
 
 The lines on this machine are also in `data/usage.jsonl`. The hosted copies sit in the private store [reg4rwe-usage](https://vercel.com/sajan-khoslas-projects/~/stores/blob/store_SZsHbbvd9d33zuo0). A text report is:
 

@@ -119,6 +119,10 @@ async function load(token) {
   }
   const payload = await response.json();
   state.events = payload.events || [];
+  const lede = document.getElementById("lede");
+  if (payload.store === "vercel-blob") {
+    lede.textContent = "These rows are read from the private Vercel usage store, not from a file on this machine.";
+  }
   gate.hidden = true;
   render();
   return true;

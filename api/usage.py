@@ -66,4 +66,4 @@ class handler(BaseHTTPRequestHandler):
         except Exception as error:
             self._send(500, {"error": str(error)})
             return
-        self._send(200, {"events": events})
+        self._send(200, {"store": "vercel-blob", "events": events})

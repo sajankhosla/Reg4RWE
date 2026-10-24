@@ -11,7 +11,7 @@ WEB = ROOT / "web"
 CORPUS = ROOT / "data" / "corpus.json"
 
 from appraise_core import appraise
-from usage_log import log_appraisal, read_local, read_remote
+from usage_log import log_appraisal, read_remote
 
 
 def load_local_env():
@@ -28,14 +28,8 @@ def load_local_env():
 
 
 def usage_events():
-    merged = {}
-    try:
-        remote = read_remote(100)
-    except Exception:
-        remote = []
-    for event in read_local(100) + remote:
-        merged[event.get("id") or id(event)] = event
-    return sorted(merged.values(), key=lambda event: event.get("at") or "", reverse=True)
+    """Rows for the dashboard come from the private Vercel Blob store only."""
+    return read_remote(100)
 
 
 class Handler(SimpleHTTPRequestHandler):
@@ -45,7 +39,7 @@ class Handler(SimpleHTTPRequestHandler):
     def do_GET(self):
         path = self.path.split("?", 1)[0]
         if path == "/api/usage":
-            body = json.dumps({"events": usage_events()}).encode("utf-8")
+            body = json.dumps({"store": "vercel-blob", "events": usage_events()}).encode("utf-8")
             self.send_response(200)
             self.send_header("Content-Type", "application/json; charset=utf-8")
             self.send_header("Cache-Control", "no-store")
