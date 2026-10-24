@@ -51,11 +51,15 @@ def log_appraisal(source: str, design: str, appraisal: str) -> str:
     """Record one appraisal. Failures are ignored so the appraisal still returns."""
     try:
         event = make_event(source, design, appraisal)
+    except Exception as error:
+        return f"error:{error}"
+    try:
         _append_local(event)
+    except Exception:
+        pass
+    try:
         if source == "http":
-            stored = _store_blob(event)
-            print(json.dumps({"reg4rwe_usage": {"id": event["id"], "source": source, "outcome": event["outcome"]}}), flush=True)
-            return stored
+            return _store_blob(event)
         _post_ingest(event)
         return "sent"
     except Exception as error:
