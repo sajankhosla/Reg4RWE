@@ -53,8 +53,16 @@ class handler(BaseHTTPRequestHandler):
         if not expected or supplied != f"Bearer {expected}":
             self._send(404, {"error": "Not found."})
             return
+        limit = 100
+        query = self.path.split("?", 1)[1] if "?" in self.path else ""
+        for part in query.split("&"):
+            if part.startswith("limit="):
+                try:
+                    limit = max(1, min(200, int(part.split("=", 1)[1])))
+                except ValueError:
+                    limit = 100
         try:
-            events = read_remote(50)
+            events = read_remote(limit)
         except Exception as error:
             self._send(500, {"error": str(error)})
             return

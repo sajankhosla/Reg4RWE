@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Reg4RWE usage</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="top">
+    <div class="identity">
+      <p class="eyebrow">Private</p>
+      <h1>Appraisal log</h1>
+      <p class="lede" id="lede">Designs sent to Reg4RWE, and the precedents that came back.</p>
+    </div>
+    <form id="gate">
+      <label for="token">Read token</label>
+      <div class="gate-row">
+        <input id="token" type="password" autocomplete="current-password" placeholder="Paste the read token">
+        <button type="submit">Open</button>
+      </div>
+    </form>
+  </header>
+  <section id="summary" class="stat-row" hidden></section>
+  <div id="filters" class="filters" hidden></div>
+  <main id="main" class="reading"></main>
+  <script src="logs.js"></script>
+</body>
+</html>

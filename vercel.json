@@ -6,7 +6,9 @@
   },
   "rewrites": [
     { "source": "/", "destination": "/web/index.html" },
+    { "source": "/logs", "destination": "/web/logs.html" },
     { "source": "/app.js", "destination": "/web/app.js" },
+    { "source": "/logs.js", "destination": "/web/logs.js" },
     { "source": "/styles.css", "destination": "/web/styles.css" },
     { "source": "/corpus.json", "destination": "/data/corpus.json" },
     { "source": "/api/corpus", "destination": "/data/corpus.json" }
