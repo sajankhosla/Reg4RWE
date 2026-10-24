@@ -1,0 +1,9 @@
+data/cache
+data/locate.log
+.git
+.vercel
+__pycache__
+*.pyc
+.env
+.env.*
+.DS_Store
