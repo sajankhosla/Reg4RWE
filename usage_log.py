@@ -13,12 +13,14 @@ import re
 import uuid
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib import error, request
+from urllib import error, parse, request
 
 ROOT = Path(__file__).resolve().parent
 LOCAL_LOG = ROOT / "data" / "usage.jsonl"
 INGEST_URL = os.environ.get("REG4RWE_USAGE_URL", "https://www.reg4rwe.com/api/usage")
 BLOB_PREFIX = "reg4rwe/usage/"
+BLOB_API = "https://vercel.com/api/blob"
+DEFAULT_STORE_ID = "store_SZsHbbvd9d33zuo0"
 MAX_DESIGN = 6000
 
 HEADING = re.compile(r"^### (.+)$", re.M)
@@ -80,42 +82,59 @@ def _post_ingest(event: dict) -> None:
         return
 
 
-def _token() -> str:
-    return os.environ.get("BLOB_READ_WRITE_TOKEN", "").strip()
+def _auth_headers() -> dict[str, str] | None:
+    token = os.environ.get("BLOB_READ_WRITE_TOKEN", "").strip()
+    oidc = os.environ.get("VERCEL_OIDC_TOKEN", "").strip()
+    bearer = token or oidc
+    if not bearer:
+        return None
+    store_id = os.environ.get("BLOB_STORE_ID", DEFAULT_STORE_ID).strip() or DEFAULT_STORE_ID
+    if store_id.startswith("store_"):
+        store_id = store_id[len("store_"):]
+    return {
+        "Authorization": f"Bearer {bearer}",
+        "x-api-version": "13",
+        "x-vercel-blob-store-id": store_id,
+    }
 
 
 def _store_blob(event: dict) -> bool:
-    token = _token()
-    if not token:
+    headers = _auth_headers()
+    if not headers:
+        print(json.dumps({"reg4rwe_usage_store": "no-credentials"}), flush=True)
         return False
     pathname = f"{BLOB_PREFIX}{event['at']}-{event['id']}.json"
+    url = f"{BLOB_API}/?pathname={parse.quote(pathname)}"
     req = request.Request(
-        f"https://blob.vercel-storage.com/{pathname}",
+        url,
         data=json.dumps(event).encode("utf-8"),
         method="PUT",
         headers={
-            "Authorization": f"Bearer {token}",
-            "x-api-version": "7",
+            **headers,
             "x-content-type": "application/json",
             "x-add-random-suffix": "0",
+            "x-allow-overwrite": "1",
         },
     )
     try:
         with request.urlopen(req, timeout=8) as response:
             response.read()
         return True
-    except error.URLError:
+    except error.HTTPError as http_error:
+        detail = http_error.read(300).decode("utf-8", "replace")
+        print(json.dumps({"reg4rwe_usage_store": http_error.code, "detail": detail[:300]}), flush=True)
+        return False
+    except error.URLError as url_error:
+        print(json.dumps({"reg4rwe_usage_store": str(url_error.reason)}), flush=True)
         return False
 
 
 def _list_blob_urls(limit: int) -> list[str]:
-    token = _token()
-    if not token:
+    headers = _auth_headers()
+    if not headers:
         return []
-    req = request.Request(
-        f"https://blob.vercel-storage.com?prefix={BLOB_PREFIX}&limit={limit}",
-        headers={"Authorization": f"Bearer {token}", "x-api-version": "7"},
-    )
+    query = parse.urlencode({"prefix": BLOB_PREFIX, "limit": str(limit)})
+    req = request.Request(f"{BLOB_API}?{query}", headers=headers)
     with request.urlopen(req, timeout=8) as response:
         payload = json.loads(response.read().decode("utf-8"))
     blobs = payload.get("blobs") or []
@@ -124,8 +143,10 @@ def _list_blob_urls(limit: int) -> list[str]:
 
 
 def _read_blob(url: str) -> dict | None:
-    token = _token()
-    req = request.Request(url, headers={"Authorization": f"Bearer {token}"})
+    headers = _auth_headers()
+    if not headers:
+        return None
+    req = request.Request(url, headers=headers)
     try:
         with request.urlopen(req, timeout=8) as response:
             return json.loads(response.read().decode("utf-8"))
