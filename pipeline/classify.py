@@ -128,17 +128,24 @@ def decision_group(agency: str, role: str, theme1: str) -> tuple[str, str]:
         return mapped, labels[mapped]
 
     t1, role_l = (theme1 or "").lower(), (role or "").lower()
+    # Read an effectiveness use before a co-mentioned safety word. "Efficacy/safety"
+    # and "efficacy confirmation + post-marketing safety" were landing in safety
+    # because the safety words were tested first.
     if role_l in ("n/a", "") or t1 == "n/a":
         key = "none"
-    elif "safety" in t1 or any(w in role_l for w in ("label", "boxed", "dsc", "rems", "warning", "safety")):
-        key = "safety"
-    elif any(w in role_l for w in ("pivotal", "substantial evidence", "adequate and well-controlled")):
+    elif any(w in role_l for w in (
+        "pivotal", "substantial evidence", "adequate and well-controlled",
+        "confirmatory evidence", "efficacy confirmation", "awc evidence",
+    )):
         key = "pivotal"
     elif any(w in role_l for w in (
         "supportive", "historical control", "context", "extrapolation",
         "external control", "representativeness", "conversion",
+        "efficacy", "effectiveness",
     )):
         key = "supportive"
+    elif "safety" in t1 or any(w in role_l for w in ("label", "boxed", "dsc", "rems", "warning", "safety")):
+        key = "safety"
     else:
         key = "other"
     return key, labels[key]
@@ -149,10 +156,10 @@ def question_group(theme1: str) -> tuple[str, str]:
     low = (theme1 or "").strip().lower()
     if low in ("", "n/a", "not specified"):
         key = "none"
-    elif "safety" in low or "post-approval" in low:
-        key = "safety"
     elif any(w in low for w in ("external", "confirmatory", "benefit-risk", "benefit–risk", "supportive evidence")):
         key = "benefit"
+    elif "safety" in low or "post-approval" in low:
+        key = "safety"
     elif any(w in low for w in ("epidemi", "natural history", "generali", "context", "extrapolation")):
         key = "context"
     elif any(w in low for w in ("endpoint", "clinical trial")):

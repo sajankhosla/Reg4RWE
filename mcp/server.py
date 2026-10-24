@@ -107,12 +107,16 @@ def read_message():
 
 
 def write_message(payload):
+    """Write one JSON-RPC message per line.
+
+    Claude Code and Claude Desktop read newline-delimited JSON on stdio.
+    A Content-Length header is not part of that framing, so those clients
+    never parse the reply. Incoming Content-Length messages are still accepted.
+    """
     if payload is None:
         return
-    raw = json.dumps(payload).encode("utf-8")
-    sys.stdout.buffer.write(f"Content-Length: {len(raw)}\r\n\r\n".encode("ascii"))
-    sys.stdout.buffer.write(raw)
-    sys.stdout.buffer.flush()
+    sys.stdout.write(json.dumps(payload) + "\n")
+    sys.stdout.flush()
 
 
 def main():

@@ -23,32 +23,32 @@
           "id": "pivotal",
           "label": "Effectiveness: pivotal or substantial evidence",
           "lesson": "The regulator treated the real-world comparison as evidence that could carry the effectiveness decision. Read the quote for what had to be true: patient-level data, a large effect, or a disease where a randomised trial was not feasible.",
-          "count": 5,
-          "fda": 4,
+          "count": 12,
+          "fda": 11,
           "ema": 1
         },
         {
           "id": "supportive",
           "label": "Effectiveness: supportive or contextual",
           "lesson": "Real-world evidence was used to interpret a trial, describe the disease, or support a subset. The decision did not rest on it alone, and the critique is often about whether the comparison was fair.",
-          "count": 31,
-          "fda": 19,
+          "count": 34,
+          "fda": 22,
           "ema": 12
         },
         {
           "id": "safety",
           "label": "Safety, labelling or REMS action",
           "lesson": "This is the largest FDA group. A study informed a label, a warning, or a REMS. The extraction usually records the action and the data source. A methods critique was often not written down.",
-          "count": 68,
-          "fda": 62,
+          "count": 64,
+          "fda": 58,
           "ema": 6
         },
         {
           "id": "other",
           "label": "Other (PMR/PMC, policy evaluation)",
           "lesson": "The evidence sits beside the decision: a post-marketing commitment, a policy evaluation, or a use the January coding did not place under effectiveness or safety.",
-          "count": 14,
-          "fda": 14,
+          "count": 8,
+          "fda": 8,
           "ema": 0
         },
         {
@@ -78,16 +78,16 @@
           "id": "safety",
           "label": "Post-approval safety and labelling",
           "lesson": "The question was what happens after approval: a risk, a pregnancy outcome, a class effect, or the effect of a labelling change.",
-          "count": 65,
-          "fda": 60,
+          "count": 64,
+          "fda": 59,
           "ema": 5
         },
         {
           "id": "benefit",
           "label": "Benefit–risk, including external comparators",
           "lesson": "The question was whether the treated patients did better than a fair comparison, often an external or natural-history control, or whether the benefit–risk case was supported.",
-          "count": 56,
-          "fda": 24,
+          "count": 57,
+          "fda": 25,
           "ema": 32
         },
         {
@@ -2811,8 +2811,8 @@
       "quote": "Study evaluated graft failure and death... using SRTR registry data",
       "summary": "Registry outcomes compared with natural history to support approval",
       "confidence": "0.6",
-      "decision_id": "other",
-      "decision": "Other (PMR/PMC, policy evaluation)",
+      "decision_id": "pivotal",
+      "decision": "Effectiveness: pivotal or substantial evidence",
       "question_id": "benefit",
       "question": "Benefit–risk, including external comparators",
       "settings": [
@@ -2900,8 +2900,8 @@
       "quote": "Establish a registry for children aged 2 to < 6 years... follow them for 5 years",
       "summary": "Registry data supported pediatric safety and conversion",
       "confidence": "0.4",
-      "decision_id": "safety",
-      "decision": "Safety, labelling or REMS action",
+      "decision_id": "supportive",
+      "decision": "Effectiveness: supportive or contextual",
       "question_id": "safety",
       "question": "Post-approval safety and labelling",
       "settings": [
@@ -2990,8 +2990,8 @@
       "quote": "Establish a registry for children aged 2 to < 6 years... follow them for 5 years",
       "summary": "Registry data supported pediatric safety and conversion",
       "confidence": "0.4",
-      "decision_id": "safety",
-      "decision": "Safety, labelling or REMS action",
+      "decision_id": "supportive",
+      "decision": "Effectiveness: supportive or contextual",
       "question_id": "safety",
       "question": "Post-approval safety and labelling",
       "settings": [
@@ -3436,8 +3436,8 @@
       "quote": "Even though no PK data are available in PROS patients given the real world nature of EPIK-P1 study",
       "summary": "Real-world nature acknowledged; Supportive for dosing in target population",
       "confidence": "0.2",
-      "decision_id": "safety",
-      "decision": "Safety, labelling or REMS action",
+      "decision_id": "supportive",
+      "decision": "Effectiveness: supportive or contextual",
       "question_id": "context",
       "question": "Disease context, natural history and generalisability",
       "settings": [
@@ -3627,8 +3627,8 @@
       "quote": "There are limitations inherent to external comparator study... However this study did have strengths of individual-level data for propensity matching",
       "summary": "Natural history analysis as confirmatory evidence; Limitations acknowledged",
       "confidence": "0.2",
-      "decision_id": "other",
-      "decision": "Other (PMR/PMC, policy evaluation)",
+      "decision_id": "pivotal",
+      "decision": "Effectiveness: pivotal or substantial evidence",
       "question_id": "benefit",
       "question": "Benefit–risk, including external comparators",
       "settings": [
@@ -3679,10 +3679,10 @@
       "quote": "DEPI-I agrees with using the natural history control analysis as confirmatory evidence of effectiveness for this rare disease indication",
       "summary": "NH control as confirmatory evidence accepted; PMR for safety registry issued",
       "confidence": "0.3",
-      "decision_id": "safety",
-      "decision": "Safety, labelling or REMS action",
-      "question_id": "safety",
-      "question": "Post-approval safety and labelling",
+      "decision_id": "pivotal",
+      "decision": "Effectiveness: pivotal or substantial evidence",
+      "question_id": "benefit",
+      "question": "Benefit–risk, including external comparators",
       "settings": [
         {
           "id": "paediatric",
@@ -3731,8 +3731,8 @@
       "quote": "A multicenter retrospective cohort study of frostbite patients with a historical control... was used as confirmatory evidence",
       "summary": "RWE used as confirmatory evidence for approval",
       "confidence": "0.6",
-      "decision_id": "other",
-      "decision": "Other (PMR/PMC, policy evaluation)",
+      "decision_id": "pivotal",
+      "decision": "Effectiveness: pivotal or substantial evidence",
       "question_id": "benefit",
       "question": "Benefit–risk, including external comparators",
       "settings": [
@@ -6662,8 +6662,8 @@
       "quote": "eness, along with a comprehensive package of confirmatory evidence, of the effectiveness of bevacizumab-vikg from another AWC trial, NORSE EIGHT. The applicant has provided a new discussion of NORSE EIGHT as confirmatory evidence of efficacy of Lytenava (bevacizumab-vikg) injection along with mechanistic data and natural history data. Reference ID: 5720088 Clinical, CDTL, Division Director, Office Director Review William M. Boyd, M.D., Rhea Lloyd, M.D., Alex Gorovets, M.D.",
       "summary": "Confirmatory evidence. Natural history study.",
       "confidence": "",
-      "decision_id": "other",
-      "decision": "Other (PMR/PMC, policy evaluation)",
+      "decision_id": "pivotal",
+      "decision": "Effectiveness: pivotal or substantial evidence",
       "question_id": "context",
       "question": "Disease context, natural history and generalisability",
       "settings": [
@@ -6897,8 +6897,8 @@
       "quote": "t we considered the very similar results on AGV to provide confirmatory evidence for the AGV effects seen in the phase 3 trial. To explore the effects on AGV beyond 1 year, we also compared AGV and ACH-specific height Z-scores from Week 52 to 104 in the ongoing long-term extension Trial ASND0039 to that of matched external control participants from the observational Study TCC-NHS-01.",
       "summary": "Confirmatory evidence. External control from RWD.",
       "confidence": "",
-      "decision_id": "other",
-      "decision": "Other (PMR/PMC, policy evaluation)",
+      "decision_id": "pivotal",
+      "decision": "Effectiveness: pivotal or substantial evidence",
       "question_id": "benefit",
       "question": "Benefit–risk, including external comparators",
       "settings": [
@@ -6944,8 +6944,8 @@
       "quote": "A total of 32 subjects who received both pegzilarginase and placebo in Trial CAEB1102-300A was evaluated. The evaluation of the clinical meaningfulness of the reduction of plasma arginine was a key efficacy issue. The Applicant provided data in their confirmatory evidence package, including an analysis of ARG1-D natural history data and a literature review of the role of plasma arginine in ARG-D.",
       "summary": "A total of 32 subjects who received both pegzilarginase and placebo in Trial CAEB1102-300A was evaluated. The evaluation of the clinical meaningfulness of the reduction of plasma arginine was a key efficacy issue. The Applicant provided data in their confirmatory evidence package",
       "confidence": "",
-      "decision_id": "other",
-      "decision": "Other (PMR/PMC, policy evaluation)",
+      "decision_id": "pivotal",
+      "decision": "Effectiveness: pivotal or substantial evidence",
       "question_id": "context",
       "question": "Disease context, natural history and generalisability",
       "settings": [
@@ -10254,7 +10254,7 @@
         "drug": "Omaveloxolone (Skyclarys)",
         "application": "NDA 216718",
         "year": "2023",
-        "decision": "Other (PMR/PMC, policy evaluation)",
+        "decision": "Effectiveness: pivotal or substantial evidence",
         "origin": "january-2026-curated"
       },
       {
@@ -10262,7 +10262,7 @@
         "drug": "Givinostat (Duvyzat)",
         "application": "NDA 217865",
         "year": "2024",
-        "decision": "Safety, labelling or REMS action",
+        "decision": "Effectiveness: pivotal or substantial evidence",
         "origin": "january-2026-curated"
       },
       {
@@ -10318,7 +10318,7 @@
         "drug": "Lytenava",
         "application": "BLA761320",
         "year": "2026",
-        "decision": "Other (PMR/PMC, policy evaluation)",
+        "decision": "Effectiveness: pivotal or substantial evidence",
         "origin": "october-2026-screen"
       },
       {
@@ -10358,7 +10358,7 @@
         "drug": "Yuviwel",
         "application": "NDA219164",
         "year": "2026",
-        "decision": "Other (PMR/PMC, policy evaluation)",
+        "decision": "Effectiveness: pivotal or substantial evidence",
         "origin": "october-2026-screen"
       },
       {
@@ -10366,7 +10366,7 @@
         "drug": "Loargys",
         "application": "BLA761211",
         "year": "2026",
-        "decision": "Other (PMR/PMC, policy evaluation)",
+        "decision": "Effectiveness: pivotal or substantial evidence",
         "origin": "october-2026-screen"
       },
       {
